@@ -1,0 +1,533 @@
+Skip to Main content
+Elsevier logo
+Journals & Books
+
+Help
+Search
+My account
+Sign in
+Air Conditioner
+In subject area: Engineering
+
+HVAC refers to a system installed within a building to ensure good air quality, proper airflow, and thermal comfort for occupants by circulating and exhausting air to maintain satisfactory indoor temperature levels. It comprises various components including filters, compressors, coils, and ducts, and can be classified into different types for residential and commercial applications.
+
+AI generated definition based on: Building Energy Management Systems and Techniques, 2024
+
+How useful is this definition?
+
+Press Enter to select rating, 1 out of 3 stars
+Press Enter to select rating, 2 out of 3 stars
+Press Enter to select rating, 3 out of 3 stars
+
+About this page
+Add to Mendeley
+
+Set alert
+Also in subject area:
+Computer Science
+Discover more topics
+On this page
+Definition
+Chapters and Articles
+Related Terms
+Recommended Publications
+Featured Authors
+Chapters and Articles
+You might find these chapters and articles relevant to this topic.
+
+Chapter
+
+Energy Efficiency Analyses
+Air conditioner.
+The air conditioner has a COP of 10.2. Its effectiveness is given by
+
+(6.6)
+ɛ
+=
+(
+COP
+)
+ 
+(
+T
+0
+T
+2
+−
+1
+)
+where:
+
+T0 = heat sink temperature (40°C)
+
+T2 = cool reservoir temperature (20°C).
+
+These temperatures correspond to typical hot summer day weather conditions. For this case,
+
+ɛ
+=
+(
+10.2
+)
+ 
+(
+313
+293
+−
+1
+)
+=
+69.6
+%
+.
+This indicates that air conditioners do not work effectively when the outside air temperature is close to the temperature of the conditioned space.
+
+Table 6.3 summarizes first- and second-law efficiencies for common energy using processes. The reader should consult the literature for more detailed discussions of available work.
+
+Table 6.3. First-law and Second-law Efficiencies for Single Source-Single Output Devices
+
+End Use/Source	Work Ein	Fuel: Heat of Combustion |ΔH| Available Work B	Heat E1 From Hot Reservoir at T1
+1.	2.	3.
+Work	
+η
+=
+E
+out
+/
+E
+i
+n
+η
+=
+E
+out
+/
+|
+Δ
+H
+|
+η
+=
+E
+out
+/
+|
+E
+1
+|
+Eout	
+∈
+=
+η
+∈
+=
+E
+out
+B
+(
+≃
+η
+)
+∈
+=
+η
+1
+−
+(
+t
+0
+/
+T
+1
+)
+(e.g., electric motor)	(e.g., power plant)	(e.g., geothermal plant)
+4.	5.	6.
+Heat E2 added to warm reservoir at T2	
+η
+(
+COP
+)
+=
+E
+2
+/
+E
+in
+∈
+=
+η
+(
+1
+−
+T
+0
+T
+2
+)
+η
+(
+COP
+)
+=
+E
+2
+/
+|
+Δ
+H
+|
+∈
+=
+E
+2
+B
+(
+1
+−
+T
+0
+T
+2
+)
+η
+(
+COP
+)
+=
+E
+2
+/
+|
+E
+1
+|
+∈
+=
+η
+1
+−
+(
+T
+0
+/
+T
+2
+)
+1
+−
+(
+T
+0
+/
+T
+1
+(e.g., electrically driven heat pump)	(e.g., engine driven heat pump)	(e.g., furnace)
+7.	8.	9.
+Heat E3 extracted from cool reservoir at T3	
+η
+(
+COP
+)
+=
+E
+3
+/
+|
+E
+i
+n
+|
+∈
+=
+η
+(
+T
+0
+T
+3
+−
+1
+)
+η
+(
+COP
+)
+=
+E
+3
+/
+|
+Δ
+H
+|
+∈
+=
+E
+3
+B
+(
+T
+0
+T
+3
+−
+1
+)
+η
+(
+COP
+)
+=
+E
+3
+/
+E
+1
+∈
+=
+η
+(
+T
+0
+/
+T
+3
+)
+−
+1
+1
+−
+(
+T
+0
+/
+T
+1
+)
+(e.g., electric refrigerator)	(e.g., gas-powered air conditioner)	(e.g., absorption refrigerator)
+Source: Smith, C.B., ed. Efficient Electricity Use, p. 689.
+
+
+Show more
+Book
+Energy, Management, Principles
+1981, Energy, Management, Principles
+CRAIG B. SMITH
+Chapter
+
+Automotive Applications of Power Electronics
+25.4.5 Electric Air Conditioner
+It is desirable to replace some of the engine-driven functions of a vehicle with electrically driven counterparts. The benefits of driving these functions electrically include the elimination of belts and pulleys, improved design and control due to independence from engine speed, and resulting increased efficiency and improved fuel economy. Furthermore, there is the opportunity for operation of the function in the engine-off condition.
+
+The air conditioner is an example of an engine-driven function that could benefit from electrification. The engine drives the compressor of the air conditioner. Consequently, the speed of the compressor varies over a wide range and the compressor has to be over-sized to provide the desired performance at engine idle. Also, since the compressor speed is dependent on the engine speed, excessive cooling occurs at highway speeds requiring the cool air to be blended with the hot air to keep the temperature at the desired level. Furthermore, shaft seals and rubber hoses can lead to the loss of refrigerant (CFC) and pose an environmental challenge.
+
+In an electric air conditioner, an electric motor is used to drive the compressor [26]. The motor is usually a three-phase brushless dc motor driven by a three-phase MOSFET bridge. The speed of the compressor in an electric air conditioner is independent of the engine speed. As a result, the compressor does not have to be over-sized and excessive cooling does not occur. Also, shaft seals and hoses can be replaced with a hermetically sealed system. Another benefit of an electric air conditioner is the flexibility in its location, since it does not have to be driven by the engine.
+
+Book
+Power Electronics Handbook (Third Edition)
+2011, Power Electronics Handbook (Third Edition)
+David J. Perreault, ... Iftikhar A. Khan
+Chapter
+
+Air-conditioning units
+11.1 History of air conditioning
+The term ‘air conditioning’ commonly refers to the cooling and dehumidification of indoor air for thermal comfort. In a broader sense, the term can refer to any form of cooling, heating, ventilation or disinfection that modifies the condition of air. An air conditioner is an appliance, system or mechanism designed to extract heat from an area, typically using a refrigeration cycle but sometimes using evaporation. Glenn Elert refers an air conditioner as a mechanical system for controlling temperature (by providing cool air), humidity (by providing dry air) and ventilation (by providing fresh air). It is a combined process that performs many functions simultaneously. It conditions the air, transports it, and introduces it to the space being conditioned. It provides heating and cooling from its central plant or rooftop units. It also controls and maintains the temperature, humidity, air movement, air cleanliness, sound level, and pressure differential in a space within pre-determined limits for the comfort and health of the occupants of the conditioned space or for the purpose of product processing. An air conditioning, or HVAC&R, system is composed of components and equipment arranged in sequence to condition the air, to transport it to the conditioned space, and to control the indoor environmental parameters of a specific space within required limits. Most air conditioning systems perform the following functions:
+
+•
+Provide the cooling and heating energy required
+
+•
+Condition the supply air, that is, heat or cool, humidify or dehumidify, clean and purify, and attenuate any objectionable noise produced by the HVAC&R equipment.
+
+•
+Distribute the conditioned air, containing sufficient outdoor air, to the conditioned space.
+
+•
+Control and maintain the indoor environmental parameters such as temperature, humidity, cleanliness, air movement, sound level, and pressure differential between the conditioned space and surroundings within pre-determined limits
+
+The first air conditioning probably started with early man when he moved inside a cool, dark cave to escape the summer heat and to protect self from the winter cold. Humans have continually searched for ways to keep cool in the summer. The ancient Egyptians circulated aqueduct water throughout the walls of houses which cooled them. As this was a luxury due to water usage being expensive only the wealthiest could afford it. An earlier form of air conditioning was invented in Persia (Iran) thousands of years ago in the form of wind shafts on the roof, which caught the wind and passed it through water and blew the cooled air into the building. The buildings had their own cisterns and wind towers cooling buildings during the hot season. Cisterns were generally large outdoor pools which collected the rain water; wind towers used windows to catch the wind and internal vanes directed the air flow down in to the building over the cistern tanks and out through a down wind cooling tower. The cistern of water evaporated which in turn cooled the air within the building. As early as the times of the ancient Egyptians, Romans and Greeks, wet fabric mats were hung in the windows and doorways of dwellings to cool the indoor environment. Wind blowing through the mats evaporated the water thereby cooling the air entering the building. The same technique was later used in the royal palaces of India. Today, we find the benefits of air conditioning to be much more than personal comfort—it is necessary for improving productivity in the workplace, making possible good medical/health service and preserving fresh and frozen foods.
+
+In 1820, British scientist Michael Faraday discovered that compressing and liquefying ammonia could chill air when the liquefied ammonia was allowed to evaporate. In 1842, Florida physician John Gorrie used compressor technology to create ice, which he used to cool air for his patients in his hospital. He hoped eventually to use his ice-making machine to regulate the temperature of buildings. He even envisioned centralised air conditioning that could cool entire cities. Though his prototype leaked and performed irregularly, Gorrie was granted a patent in 1851 for his ice-making machine. His hopes for its success vanished soon afterwards when his chief financial banker died; Gorrie did not get the money he needed to develop the machine. Gorrie died impoverished in 1855 and the idea of air conditioning faded away for 50 years.
+
+One of the first uses of air conditioning for personal comfort was in 1902 when the New York Stock Exchange’s new building was equipped with a central cooling as well as heating system. Alfred Wolff, an engineer from Hoboken, New Jersey, who is considered the forerunner in the quest to cool a working environment, helped design the new system, transferring this budding technology from textile mills to commercial buildings. Later in 1902, the first modern, electrical air conditioning was invented by Willis Havilland Carrier (1876–1950). His invention differed from Wolff’s in that it controlled not only temperature, but also humidity for improved manufacturing process control for a printing plant in Brooklyn, New York. This specifically helped to provide low heat and humidity for consistent paper dimensions and ink alignment. In 1906, Stuart W. Cramer of Charlotte, North Carolina was exploring ways to add moisture to the air in his southern textile mill. Cramer coined the term ‘air conditioning’ and used it in a patent claim he filed that year as an alternative to ‘water conditioning’, then a well-known process for making textiles easier to work. He combined moisture with ventilation to actually ‘condition’ and to change the air in the factories, controlling the humidity so necessary in textile plants. Willis Carrier adopted the term and incorporated it into the name of the company he founded in 1907, the Carrier air conditioning company of America. Later, Carrier’s technology was applied to increase productivity in the workplace, and the Carrier Engineering Company, now called Carrier (a division of United Technologies Corporation), was formed in 1915 to meet the new demand. Later still, air conditioning use was expanded to improve comfort in homes and automobiles. Residential sales didn’t take off until the 1950’s. The Royal Victoria Hospital, Belfast, Northern Ireland, is a landmark building in building engineering services (built in 1906) and lays claim to being the first ‘Air conditioned building in the world’.
+
+Air conditioning—or manufactured air, as it was first called—was originally considered to be simply controlling humidity. Textile mills had a higher production rate if the inside humidity could be managed. Then temperature control was added and circulated air with controlled humidity and a constant temperature.
+
+The first air conditioners and refrigerators employed toxic or flammable gases like ammonia, methyl chloride, and propane which could result in fatal accidents when they leaked. Thomas Midgley, Jr. created the first chlorofluorocarbon gas, Freon, in 1928. The refrigerant was much safer for humans but was later found to be harmful to the atmosphere’s ozone layer. ‘Freon’ is a trade name of Dupont for any Chlorofluorocarbon (CFC), Hydrogenated CFC (HCFC), or Hydrofluorocarbon (HFC) refrigerant, the name of each including a number indicating molecular composition (R-11, R-12, R-22, R-134). The blend most used in direct-expansion comfort cooling is an HCFC known as R-22. It is to be phased out for use in new equipment by 2010 and completely discontinued by 2020. R-11 and R-12 are no longer manufactured in the US, the only source for purchase being the cleaned and purified gas recovered from other air conditioner systems. Several non-ozone depleting refrigerants have been developed as alternatives, including R-410A, known by the brand name ‘Puron’. Innovation in air-conditioning technologies continue, with much recent emphasis placed on energy efficiency and for improving indoor air quality. As an alternative to high global warming refrigerants, such as R-134a in cars and R-22, R-410a in residential air conditioning, natural alternatives like CO2 (R-744) have been proposed.
+
+
+Show more
+Book
+Humidification and Ventilation Management in Textile Industry
+2009, Humidification and Ventilation Management in Textile Industry
+B. Purushothama
+Chapter
+
+Air-conditioning units
+11.4.2 Design
+All air conditioners have four basic components: a pump, an evaporator, a condenser, and an expansion valve. All have a working fluid and an opposing fluid medium as well. Two air conditioners may look entirely dissimilar in size, shape, and configuration, yet both function in basically the same way. Most air conditioners derive their power from an electrically driven motor and pump combination to circulate the refrigerant fluid. Some natural gas-driven chillers couple the pump with a gas engine in order to give off significantly more torque.
+
+As the working fluid or refrigerant circulates through the air-conditioning system at high pressure via the pump enter an evaporator and changes into a gas state, taking heat from the opposing fluid medium and operating just like a heat exchanger. The working fluid then moves to the condenser and gives off heat to the atmosphere by condensing back into a liquid. After passing through an expansion valve, the working fluid returns to a low pressure state. When the cooling medium passes near the evaporator, heat is drawn to the evaporator. This process effectively cools the opposing medium, providing localised cooling where needed. Early air conditioners used Freon as the working fluid, but because of the hazardous effects Freon has on the environment, it has been phased out. Recent designs have met strict challenges to improve the efficiency of a unit, while using an inferior substitute for Freon.
+
+Book
+Humidification and Ventilation Management in Textile Industry
+2009, Humidification and Ventilation Management in Textile Industry
+B. Purushothama
+Review article
+
+The climate change impact on air conditioner system and reliability in Malaysia—A review
+1 Introduction
+Air conditioner is no longer luxury product due to the improvement in technology that lowers down the air conditioner cost. Instead, it has become a need due to the critical climate change nowadays. Many Southeast Asian countries like Malaysia experience hot and humid climates, which result in the air conditioning system in the residential sector within Malaysia has increased sharply from thirteen thousand to seven hundred seventy five thousand in 2000 [1,2] with the increment more than 5000% and this increment will be more unimaginable with critical climate change. On the other hand, other researches have stated that roughly 30% ready use energy throughout the world is applied in the residential sector and about 50% end use energy in household area is consumed in warming application [3]. Most of the households are using the wall-mounted air conditioner due to the easy installation and low cost. Thus, the future performance and development of the just mentioned air conditioner will certainly affect the energy demand worldwide greatly.
+
+Commercial wall mounted air conditioner is classified as the direct expansion air conditioner system that utilized evaporation and condensation of refrigerant only in the system for cooling or heating purpose. Refrigerant is a highly evaporative substance that can easily absorb heat, expand and evaporate or condensate by releasing heat. The most common refrigerants used in the wall-mounted air conditioner are R410A, R407C and R22.
+
+In general, the wall mounted air conditioner can be divided into two units, which are the indoor unit installed in indoor to absorb heat (for cooling) or release heat (for heating) and the outdoor unit fixed in outdoor to function in the reverse order with the indoor unit. There are two types of wall-mounted air conditioner, namely the air cooled type using air as the medium to absorb or release heat from the refrigerant in the outdoor unit and the water cooled type using water as the medium.
+
+For the wall-mounted air conditioner with cooling function only, the indoor unit consists of an indoor heat exchanger only while the outdoor unit is equipped with an outdoor heat exchanger, compressor and expansion device. In a country with seasonal climates, most of the households are using the heat pump type wall-mounted air conditioner to perform cooling or heating. The difference between the heat pump and cooling only air conditioner is the outdoor unit of the heat pump has one more component known as the four-ways valve. The main function of the four-ways valve is to change the flow of the refrigerant system from cooling mode into heating mode or in reverse order according to the user. Fig. 1 shows how the refrigerant flows inside cooling only air conditioner. Figs. 2 and 3 show the refrigerant flows during cooling and heating mode heat pump type air conditioner.
+
+
+Sign in to download full-size image
+Fig. 1. Refrigerant flows inside cooling only air conditioner.
+
+
+Sign in to download full-size image
+Fig. 2. Refrigerant flows during cooling mode heat pump type air conditioner.
+
+
+Sign in to download full-size image
+Fig. 3. Refrigerant flows during heating mode heat pump type air conditioner.
+
+In the recent years, numerous researches had been done regarding the impact of climate change on the air conditioner system from different aspects throughout the world [4–6]. However, only the literature related to the effect of weather change on air conditioner performance and reliability is reviewed in this paper. This literature summary consists of three parts, which are the climate change impacts towards cooling and heating loads, the effect of weather change on the air conditioner power consumption and impacts on outdoor design conditions due to climate variation.
+
+
+Show more
+Journal
+2011, Renewable and Sustainable Energy Reviews
+Y.H. Yau, H.L. Pean
+Chapter
+
+Air-conditioning units
+11.4.1 Raw materials
+Air conditioners are made of different types of metal. Frequently, plastic and other non-traditional materials are used to reduce weight and cost. Copper or aluminium tubing, critical ingredients in many air conditioner components, provide superior thermal properties and a positive influence on system efficiency. Various components in an air conditioner will differ with the application, but usually they are comprised of stainless steel and other corrosion-resistant metals. Self-contained units that house the refrigeration system will usually be encased in sheet metal that is protected from environmental conditions by a paint or powder coating. The working fluid, the fluid that circulates through the air-conditioning system, is typically a liquid with strong thermodynamic characteristics like Freon, hydrocarbons, ammonia or water.
+
+Refrigeration cycle. In the refrigeration cycle, a heat pump transfers heat from a lower temperature heat source into a higher temperature heat sink. Heat would naturally flow in the opposite direction. This is the most common type of air conditioning. A refrigerator works in much the same way, as it pumps the heat out of the interior into the room in which it stands. The most common refrigeration cycle uses an electric motor to drive a compressor. A refrigerant is pumped into the cooled compartment (the evaporator coil), where the low pressure and low temperature cause the refrigerant to evaporate into a vapour, taking heat with it. In the other compartment (the condenser), the refrigerant vapour is compressed and forced through another heat exchange coil, condensing into a liquid, rejecting the heat previously absorbed from the cooled space.
+
+This cycle takes advantage of the universal gas law PV = nRT, where P is pressure, V is volume, R is the universal gas constant, T is temperature, and n is the number of moles of gas (1 mole = 6.022 × 1023 molecules).
+
+Refrigeration air conditioning equipment usually reduces the humidity of the air. The relatively cold (below the dew point) evaporator coil condenses water vapour from the processed air, sending the water to a drain and removing water vapour from the cooled space which lowers the RH. In food retailing establishments’ large open chiller cabinets act as highly effective air dehumidifying units. Some air conditioning units dry the air without cooling it. They work like a normal air conditioner, except that a heat exchanger is placed between the intake and exhaust. In combination with convection fans they achieve a similar level of comfort as an air cooler in humid tropical climates, but only consume about 1/3 of the electricity.
+
+Book
+Humidification and Ventilation Management in Textile Industry
+2009, Humidification and Ventilation Management in Textile Industry
+B. Purushothama
+Review article
+
+Adsorption refrigeration—An efficient way to make good use of waste heat and solar energy
+Another recent project in the SJTU employed a similar evaporator heat pipe device in a compact adsorption air conditioner (CAAC). The schema of this machine is shown in Fig. 30. This chiller was designed for combined utilization with a fuel cell for home use, and which could be considered as a mini CCHP system.
+
+
+Sign in to download full-size image
+Fig. 30. Scheme of the air conditioner: (1) outlet and inlet of the adsorber cooling medium; (2) heat insulation; (3) mass transfer valve; (4) outlet and inlet of the adsorber heating medium; (5) water vacuum chamber; (6) methanol vacuum chamber; (7) outlet air; (8) fan; (9) drain; (10) working fluid (methanol); (11) inlet air; (12) methanol evaporator.
+
+Journal
+2006, Progress in Energy and Combustion Science
+R.Z. Wang, R.G. Oliveira
+Review article
+
+Adsorption refrigeration—An efficient way to make good use of waste heat and solar energy
+The 2nd-generation of the adsorption chiller developed in the SJTU [76].
+
+Journal
+2006, Progress in Energy and Combustion Science
+R.Z. Wang, R.G. Oliveira
+Chapter
+
+Refrigeration and Air-Conditioning
+Glossary
+air conditioner
+System composed of a refrigeration machine, heat exchangers, air ducts, filters, fans, and/or a humidifier that supplies iir at specified parameters (temperature, humidity, and purity).
+
+air-conditioning
+The simultaneous control of the temperature, humidity, and cleanliness of the air in a space as required either by the thermal comfort of persons that live or work in the respective space or by specified technological prescriptions.
+
+Thermodynamic cycle having theoretically the highest efficiency; used as a criterion in evaluating the effectiveness of a real cycle.
+
+Thermodynamic efficiency of a refrigeration cycle, expressed as the ratio between the heat removed from the low-temperature body and the external work consumed in order to remove that heat and to transfer it to the high-temperature body (surroundings).
+
+cryogenics
+The deep-refrigeration domain involving temperatures less than 120 K.
+
+refrigerant
+Substance in the fluid state that transfers to the surroundings the heat removed from the cooled space.
+
+refrigeration
+The creation and maintenance within a medium of a temperature lower than that of the surroundings.
+
+Complex aggregate of interrelated machines, heat transfer equipment, and control devices that together accomplish the refrigeration task.
+
+Reference work
+2004, Encyclopedia of Energy
+Bogdan D. Horbaniuc
+Chapter
+
+Inverter-Aided Multisystem Air Conditioner (Air to Air Heat Pump) for Conditioning Use in Buildings
+ABSTRACT
+Recently, many kinds of small capacity air to air heat pump package air conditioners are widely used for air conditioning small to medium size buildings. A multi-system air conditioner for a building is a representative kind of air conditioning system which meets the needs for plural packaged air conditioners for buildings. It is an air to air heat pump package air conditioner in which several indoor units can be connected to a single outdoor unit by refrigerant piping.
+
+Toshiba developed for the first time an air conditioning system, based on the above type of air conditioner, in which inverter-aided compressor capacity control and refrigerant flow control with pulse motor valves is employed to enable the supply of refrigerant to each indoor unit to be arbitrarily controlled. This control system enables the capacity of each indoor unit to be freely selected according to the magnitude of the cooling or heating load in each room, and can proportionally control the cooling or heating performance of each indoor unit.
+
+Since this system was put on the market, it has come to be widely used in small to medium buildings in Japan. This report describes the technology developed for this system.
+
+Book
+1990, Heat Pumps
+Keiichirou Shimizu
+Related terms:
+Energy Engineering
+Solar Energy
+Thermoelectrics
+Solar Radiation
+Energy Efficiency
+Heat Pump
+Energy Conservation
+Coefficient of Performance
+Air Conditioning System
+Exchanger
+View all Topics
+Recommended publications
+
+International Journal of Refrigeration
+International Journal of Refrigeration
+Journal
+Energy and Buildings
+Energy and Buildings
+Journal
+Applied Thermal Engineering
+Applied Thermal Engineering
+Journal
+Applied Energy
+Applied Energy
+Journal
+Featured Authors
+
+Wang, Ruzhu
+Shanghai Jiao Tong University, Shanghai, China
+Citations54,795h-index111Publications581
+Masjuki, Haji Hassan
+International Islamic University Malaysia, Kuala Lumpur, Malaysia
+Citations42,884h-index117Publications281
+Shi, Wenxing
+Tsinghua University, Beijing, China
+Citations5,818h-index41Publications165
+Wang, Baolong
+Tsinghua University, Beijing, China
+Citations5,231h-index40Publications148
+Elsevier logo with wordmark
+About ScienceDirect
+Remote access
+Contact and support
+Terms and conditions
+Privacy policy
+Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+RELX group home page
