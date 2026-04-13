@@ -1,0 +1,379 @@
+Skip to content
+
+Think
+Artificial intelligence
+Cloud
+Security
+News
+Videos
+Reports
+Podcasts
+Events
+More
+Subscribe
+What is generative AI? 
+Machine learning
+Welcome
+Introduction
+Data science for machine learning
+Feature Engineering
+Supervised learning
+Unsupervised learning
+Semi-supervised learning
+Reinforcement learning
+Deep Learning
+Generative AI
+Overview
+Generative model
+Generative AI vs. predictive AI
+Large language models (LLMs)
+AI image generation
+Multimodal AI
+Retrieval augmented generation (RAG)
+AI code generation
+AI agents
+Model training
+Machine learning libraries
+MLOps
+Natural language processing
+Computer vision
+By Cole Stryker , Mark Scapicchio
+What is generative AI?
+Generative AI, sometimes called gen AI, is artificial intelligence (AI) that can create original content such as text, images, video, audio or software code in response to a user’s prompt or request.
+
+Generative AI relies on sophisticated machine learning models called deep learning models algorithms that simulate the learning and decision-making processes of the human brain. These models work by identifying and encoding the patterns and relationships in huge amounts of data, and then using that information to understand users' natural language requests or questions and respond with relevant new content.
+
+AI has been a hot technology topic for the past decade, but generative AI, and specifically the arrival of ChatGPT in 2022, has thrust AI into worldwide headlines and launched an unprecedented surge of AI innovation and adoption. Generative AI offers enormous productivity benefits for individuals and organizations, and while it also presents very real challenges and risks, businesses are forging ahead, exploring how the technology can improve their internal workflows and enrich their products and services. According to research by the management consulting firm McKinsey, one third of organizations are already using generative AI regularly in at least one business function.¹ Industry analyst Gartner projects more than 80% of organizations will have deployed generative AI applications or used generative AI application programming interfaces (APIs) by 2026.2
+
+How generative AI works
+For the most part, generative AI operates in three phases: 
+
+Training, to create a foundation model that can serve as the basis of multiple gen AI applications.
+
+Tuning, to tailor the foundation model to a specific gen AI application.
+
+Generation, evaluation and retuning, to assess the gen AI application's output and continually improve its quality and accuracy.
+Training
+Generative AI begins with a foundation model, a deep learning model that serves as the basis for multiple different types of generative AI applications. The most common foundation models today are large language models (LLMs), created for text generation applications, but there are also foundation models for image generation, video generation, and sound and music generation as well as multimodal foundation models that can support several kinds content generation.
+
+To create a foundation model, practitioners train a deep learning algorithm on huge volumes of raw, unstructured, unlabeled data e.g., terabytes of data culled from the internet or some other huge data source. During training, the algorithm performs and evaluates millions of ‘fill in the blank’ exercises, trying to predict the next element in a sequence e.g., the next word in a sentence, the next element in an image, the next command in a line of code and continually adjusting itself to minimize the difference between its predictions and the actual data (or ‘correct’ result).
+
+The result of this training is a neural network of parameters, encoded representations of the entities, patterns and relationships in the data, that can generate content autonomously in response to inputs, or prompts.
+
+This training process is compute-intensive, time-consuming and expensive: it requires thousands of clustered graphics processing units (GPUs) and weeks of processing, all of which costs millions of dollars. Open-source foundation model projects, such as Meta's Llama-2, enable gen AI developers to avoid this step and its costs.
+
+Tuning
+Metaphorically speaking, a foundation model is a generalist: It knows a lot about a lot of types of content, but often can’t generate specific types of output with desired accuracy or fidelity. For that, the model must be tuned to a specific content generation task. This can be done in a variety of ways.
+
+Fine tuning
+Fine tuning involves feeding the model labeled data specific to the content generation application questions or prompts the application is likely to receive, and corresponding correct answers in the desired format. For example, if a development team is trying to create a customer service chatbot, it would create hundreds or thousands of documents containing labeled customers service questions and correct answers, and then feed those documents to the model.
+
+Fine-tuning is labor-intensive. Developers often outsource the task to companies with large data-labeling workforces.
+
+Reinforcement learning with human feedback (RLHF)
+In RLHF, human users respond to generated content with evaluations the model can use to update the model for greater accuracy or relevance. Often, RLHF involves people ‘scoring’ different outputs in response to the same prompt. But it can be as simple as having people type or talk back to a chatbot or virtual assistant, correcting its output.
+
+Generation, evaluation, more tuning
+Developers and users continually assess the outputs of their generative AI apps, and further tune the model even as often as once a week for greater accuracy or relevance. (In contrast, the foundation model itself is updated much less frequently, perhaps every year or 18 months.)
+
+Another option for improving a gen AI app's performance is retrieval augmented generation (RAG). RAG is a framework for extending the foundation model to use relevant sources outside of the training data, to supplement and refine the parameters or representations in the original model. RAG can ensure that a generative AI app always has access to the most current information. As a bonus, the additional sources accessed via RAG are transparent to users in a way that the knowledge in the original foundation model is not.
+
+
+What is Retrieval-Augmented Generation (RAG)?
+What is Retrieval-Augmented Generation (RAG)? (6:32 min)
+Generative AI model architectures and how they have evolved
+Truly generative AI models deep learning models that can autonomously create content on demand have evolved over the last dozen years or so. The milestone model architectures during that period include
+
+Variational autoencoders (VAEs), which drove breakthroughs in image recognition, natural language processing and anomaly detection.
+ 
+
+Generative adversarial networks (GANs) and diffusion models, which improved the accuracy of previous applications and enabled some of the first AI solutions for photo-realistic image generation.
+ 
+
+Transformers, the deep learning model architecture behind the foremost foundation models and generative AI solutions today.
+
+Variational autoencoders (VAEs)
+An autoencoder is a deep learning model comprising two connected neural networks: One that encodes (or compresses) a huge amount of unstructured, unlabeled training data into parameters, and another that decodes those parameters to reconstruct the content. Technically, autoencoders can generate new content, but they’re more useful for compressing data for storage or transfer, and decompressing it for use, than they are for high-quality content generation.
+
+Introduced in 2013, variational autoencoders (VAEs) can encode data like an autoencoder, but decode multiple new variations of the content. By training a VAE to generate variations toward a particular goal, it can ‘zero in’ on more accurate, higher-fidelity content over time. Early VAE applications included anomaly detection (e.g., medical image analysis) and natural language generation.
+
+Generative adversarial networks (GANs)
+GANs, introduced in 2014, also comprise two neural networks: A generator, which generates new content, and a discriminator, which evaluates the accuracy and quality the generated data. These adversarial algorithms encourages the model to generate increasingly high-quality outpits.
+
+GANs are commonly used for image and video generation, but can generate high-quality, realistic content across various domains. They've proven particularly successful at tasks as style transfer (altering the style of an image from, say, a photo to a pencil sketch) and data augmentation (creating new, synthetic data to increase the size and diversity of a training data set).
+
+Diffusion models
+Also introduced in 2014, diffusion models work by first adding noise to the training data until it’s random and unrecognizable, and then training the algorithm to iteratively diffuse the noise to reveal a desired output.
+
+Diffusion models take more time to train than VAEs or GANs, but ultimately offer finer-grained control over output, particularly for high-quality image generation tool. DALL-E, Open AI’s image-generation tool, is driven by a diffusion model.
+
+Transformers
+First documented in a 2017 paper published by Ashish Vaswani and others, transformers evolve the encoder-decoder paradigm to enable a big step forward in the way foundation models are trained, and in the quality and range of content they can produce. These models are at the core of most of today’s headline-making generative AI tools, including ChatGPT and GPT-4, Copilot, BERT, Bard, and Midjourney to name a few.
+
+Transformers use a concept called attention, determining and focusing on what’s most important about data within a sequence to;
+
+process entire sequences of data e.g., sentences instead of individual words simultaneously;
+ 
+
+capture the context of the data within the sequence;
+ 
+
+encode the training data into embeddings (also called hyperparameters) that represent the data and its context.
+
+In addition to enabling faster training, transformers excel at natural language processing (NLP) and natural language understanding (NLU), and can generate longer sequences of data e.g., not just answers to questions, but poems, articles or papers with greater accuracy and higher quality than other deep generative AI models. Transformer models can also be trained or tuned to use tools e.g., a spreadsheet application, HTML, a drawing program to output content in a particular format.
+
+
+Generative Models Explained
+Generative Models Explained (8:30 min)
+What generative AI can create
+Generative AI can create many types of content across many different domains. 
+
+Text
+Generative models. especially those based on transformers, can generate coherent, contextually relevant text, everything from instructions and documentation to brochures, emails, web site copy, blogs, articles, reports, papers, and even creative writing. They can also perform repetitive or tedious writing tasks (e.g., such as drafting summaries of documents or meta descriptions of web pages), freeing writers’ time for more creative, higher-value work.
+
+Images and video
+Image generation such as DALL-E, Midjourney and Stable Diffusion can create realistic images or original art, and can perform style transfer, image-to-image translation and other image editing or image enhancement tasks. Emerging gen AI video tools can create animations from text prompts, and can apply special effects to existing video more quickly and cost-effectively than other methods.
+
+Sound, speech and music
+Generative models can synthesize natural-sounding speech and audio content for voice-enabled AI chatbots and digital assistants, audiobook narration and other applications. The same technology can generate original music that mimics the structure and sound of professional compositions.
+
+Software code
+Gen AI can generate original code, autocomplete code snippets, translate between programming languages and summarize code functionality. It enables developers to quickly prototype, refactor, and debug applications while offering a natural language interface for coding tasks.
+
+Design and art
+Generative AI models can generate unique works of art and design, or assist in graphic design. Applications include dynamic generation of environments, characters or avatars, and special effects for virtual simulations and video games.
+
+Simulations and synthetic data
+Generative AI models can be trained to generate synthetic data, or synthetic structures based on real or synthetic data. For example, generative AI is applied in drug discovery to generate molecular structures with desired properties, aiding in the design of new pharmaceutical compounds.
+
+Join over 100,000 subscribers who read the latest news in tech
+Stay up to date on the most important—and intriguing—industry trends on AI, automation, data and beyond with the Think Newsletter, delivered twice weekly. See the IBM Privacy Statement.
+
+Benefits of generative AI
+The obvious, overarching benefit of generative AI is greater efficiency. Because it can generate content and answers on demand, gen AI has the potential to accelerate or automate labor-intensive tasks, cut costs, and free employees time for higher-value work.
+
+But generative AI offers several other benefits for indivuduals and organizations.
+
+Enhanced creativity
+Gen AI tools can inspire creativity through automated brainstorming, generating multiple novel versions of content. These variations can also serve as starting points or references that help writers, artists, designers and other creators plow through creative blocks.
+
+Improved (and faster) decision-making
+Generative AI excels at analyzing large datasets, identifying patterns and extracting meaningful insights, then generating hypotheses and recommendations based on those insights to support executives, analysts, researchers and other professionals in making smarter, data-driven decisions.
+
+Dynamic personalization
+In applications like recommendation systems and content creation, generative AI can analyze user preferences and history and generate personalized content in real time, leading to a more tailored and engaging user experience.
+
+Constant availability
+Generative AI operates continuously without fatigue, providing around-the-clock availability for tasks like customer support chatbots and automated responses.
+
+AI Academy
+
+The rise of generative AI for business
+The rise of generative AI for business
+Learn about the historical rise of generative AI and what it means for business.
+
+Go to episode 
+Use cases for generative AI
+The following are just a handful of gen AI use cases for enterprises. As the technology develops and organizations embed these tools into their workflows, we can expect to see many more. 
+
+Customer experience
+Marketing organizations can save time and amp up their content production by using gen AI tools to draft copy for blogs, web pages, collateral, emails and more. But generative AI solutions can also produce highly personalized marketing copy and visuals in real time based on when, where and to whom the ad is delivered. And it will power next-generation chatbots and virtual agents that can give personalized responses and even initiate actions on behalf of customer, a significant advancement compared to the previous generation of conversational AI models trained on more limited data for very specific tasks.
+
+Software development and application modernization
+Code generation tools can automate and accelerate the process of writing new code. Code generation also has the potential to dramatically accelerate application modernization by automating much of the repetitive coding required to modernize legacy applications for hybrid cloud environments.
+
+Digital labor
+Generative AI can quickly draw up or revise contracts, invoices, bills and other digital or physical ‘paperwork’ so that employees who use or manage it can focus on higher level tasks. This can accelerate workflows in virtually every enterprise area including human resources, legal, procurement and finance.
+
+Science, engineering and research
+Generative AI models can help scientists and engineers propose novel solutions to complex problems. In healthcare, for example, generative models can be applied to synthesize medical images for training and testing medical imaging systems.
+
+Generative AI, AI agents and agentic AI
+An AI agent is an autonomous AI program—it can perform tasks and accomplish goals on behalf of a user or another system without human intervention, by designing its own workflow and using available tools (other applications or services). Agentic AI is a system of multiple AI agents, the efforts of which are coordinated, or orchestrated, to accomplish a more complex task or a greater goal than any single agent in the system could accomplish.
+
+Unlike chatbots and other AI models which operate within predefined constraints and require human intervention, AI agents and agentic AI exhibit autonomy, goal-driven behavior and adaptability to changing circumstances. The terms “agent” and “agentic” refer to these models’ agency, or their capacity to act independently and purposefully.
+
+One way to think of AI agents is as a natural next step after generative AI. Gen AI models focus on creating content based on learned patterns; agents use that content to interact with each other and other tools to make decisions, solve problems and complete tasks. For example, a gen AI app might be able to tell you the best time to climb Mt. Everest given your work schedule, but an agent can tell you this, and then use an online travel service to book you the best flight and reserve a room in the most convenient hotel in Nepal.
+
+Explore our 2025 guide to AI agents 
+Challenges, limitations and risks
+Generative AI has made remarkable strides in a relatively short period of time, but still presents significant challenges and risks to developers, users and the public at large. Below are some of the most serious issues, and how they're being addressed. 
+
+‘Hallucinations’ and other inaccurate outputs
+An AI hallucination is a generative AI output that is nonsensical or altogether inaccurate but, all too often, seems entirely plausible. The classic example is when a lawyer used a gen AI tool for research in preparation for a high-profile case and the tool ‘produced’ several example cases, complete with quotes and attributions, that were entirely fictional.
+
+Some practitioners view hallucinations as an unavoidable consequence of balancing a model’s accuracy and its creative capabilities. But developers may implement preventative measures, called guardrails, that restrict the model to relevant or trusted data sources. Continual evaluation and tuning can also help reduce hallucinations and inaccuracies.
+
+Inconsistent outputs
+Due to the variational or probabilistic nature of gen AI models, the same inputs can result in slightly or significantly different outputs. This can be undesirable in certain applications, such as customer service chatbots, where consistent outputs are expected or desired. Through prompt engineering iteratively refining or compounding prompts, users can arrive at prompts that consistently deliver the results they want from their generative AI applications.
+
+Bias
+Generative models may learn societal biases present in the training data or in the labeled data, external data sources, or human evaluators used to tune the model and generate biased, unfair or offensive content as a result. To prevent biased outputs from their models, developers must ensure diverse training data, establish guidelines for preventing bias during training and tuning, and continually evaluate model outputs for bias as well as accuracy.
+
+Lack of explainability and metrics
+Many generative AI models are ‘black box’ models, meaning it can be challenging or impossible to understand their decision-making processes; even the engineers or data scientists who create the underlying algorithm can understand or explain what exactly is happening inside it and how it arrives at a specific result. Explainable AI practices and techniques can help practitioners and users understand and trust the processes and outputs of generative models.
+
+Assessing and comparing the quality of generated content can also be challenging. Traditional evaluation metrics may not capture the nuanced aspects of creativity, coherence, or relevance. Developing robust and reliable evaluation methods for generative AI remains an active area of research.
+
+Threats to security, privacy and intellectual property
+Generative AI models can be exploited to generate convincing phishing emails, fake identities or other malicious content that can fool users into taking actions that compromise security and data privacy. Developers and users need to be careful that data put into the model (during tuning, or as part of a prompt) doesn’t expose their own intellectual property (IP) or any information protected as IP by other organizations. And they need to monitor outputs for new content that exposes their own IP or violates others' IP protections.
+
+Deepfakes
+Deepfakes are AI-generated or AI-manipulated images, video or audio created to convince people that they’re seeing, watching or hearing someone do or say something they never did or said. They are among the most chilling examples of how the power of generative AI can be applied with malicious intent.
+
+Most people are familiar with deepfakes created to damage reputations or spread misinformation. More recently, cybercriminals have deployed deepfakes as part of cyberattacks (e.g., fake voices in voice phishing scams) or financial fraud schemes.
+
+Researchers are hard at work on AI models that can detect deepfakes with greater accuracy. In the meantime, user education and best practices (e.g., not sharing unverified or unvetted contentious material) can help limit the damage deepfakes can do.
+
+A brief history of generative AI
+The term “generative AI” exploded into the public consciousness in the 2020s, but gen AI has been part of our lives for decades, and today’s generative AI technology draws on machine learning breakthroughs from as far back as the early 20th century. A non-exhaustive representative history of generative AI might include some of the following dates
+
+1964: MIT computer scientist Joseph Weizenbaum develops ELIZA, a text-based natural language processing application. Essentially the first chatbot (called a ‘chatterbot’ at the time), ELIZA used pattern-matching scripts to respond to typed natural language inputs with empathetic text responses.
+ 
+
+1999: Nvidia ships GeoForce, the first graphical processing unit. Originally developed to deliver smooth motion graphics for video games, GPUs had become the defacto platform for developing AI models and mining cryptocurrencies.
+ 
+
+2004: Google autocomplete first appears, generating potential next words or phrases as users enter their search terms. The relatively modern example of generative AI is based on a Markov Chain, a mathematical model developed in 1906.
+ 
+
+2013: The first variational autoencoders (VAEs) appear.
+ 
+
+2014: The first generative adversarial networks (GANs) and diffusion models appear.
+ 
+
+2017: Ashish Vaswani, a team at Google Brain, and a group from the University of Toronto publish “Attention is All You Need,” a paper documenting the principles of transformer models, widely acknowledged as enabling the most powerful foundation models and generative AI tools being developed today.
+ 
+
+2019-2020: OpenAI rolls out its GPT (Generative Pretrained Transformer) large language models, GPT-2 and GPT-3.
+ 
+
+2022: OpenAI introduces ChatGPT, a front-end to GPT-3 that generates complex, coherent and contextual sentences and long-form content in response to end-user prompts.
+
+With ChatGPT’s notoriety and popularity effectively opening the floodgates, generative AI developments and product releases have come at a furious pace, including releases of Google Bard (now Gemini), Microsoft Copilot, IBM watsonx.ai, and Meta’s open-source Llama-2 large language model.
+
+Techsplainers | Podcast | What is generative AI?
+
+What is generative AI?
+Listen to: 'What is generative AI?'
+Follow Techsplainers: Spotifyand Apple Podcasts
+
+Find more episodes 
+Authors
+Cole
+Cole Stryker
+Staff Editor, AI Models
+
+IBM Think
+
+Mark
+Mark Scapicchio
+Editor, Topics & Insights
+
+IBM Think
+
+
+
+
+Guide
+Start realizing ROI: A practical guide to agentic AI
+Learn how to scale agentic AI for measurable ROI across your enterprise. This playbook outlines the top barriers that limit impact, how to effectively measure ROI and a practical framework to drive successful, enterprise-wide adoption.
+
+Get the guide
+Resources
+Carousel
+IBV Report
+The enterprise in 2030: Engineered for perpetual innovation
+Discover our five predictions about what will define the most successful enterprises in 2030 and the steps leaders can take to gain an AI-first advantage.
+
+Read the report
+Training
+Take your gen AI skills to the next level
+Learn fundamental concepts and build your skills with hands-on labs, courses, guided projects, trials and more.
+
+Learn generative AI
+Guide
+Put AI to work: Driving ROI with gen AI
+Want to get a better return on your AI investments? Learn how scaling gen AI in key areas drives change by helping your best minds build and deliver innovative new solutions.
+
+Read the guide
+Report
+From AI projects to profits: How agentic AI can sustain financial returns
+Learn how organizations are shifting from launching AI in disparate pilots to applying AI to drive transformation at the core.
+
+Read the report
+
+
+
+
+
+
+
+
+1 / 3
+
+Slide 1 of 3. Showing 4 items.
+Related solutions
+IBM® watsonx Orchestrate™ 
+Easily design scalable AI assistants and agents, automate repetitive tasks and simplify complex processes with IBM® watsonx Orchestrate™.
+
+Explore watsonx Orchestrate 
+Artificial intelligence solutions
+Put AI to work in your business with IBM’s industry-leading AI expertise and portfolio of solutions at your side.
+
+Explore AI solutions 
+Artificial intelligence consulting and services
+IBM Consulting AI services help reimagine how businesses work with AI for transformation.
+
+Explore AI services 
+Take the next step
+Whether you choose to customize pre-built apps and skills or build and deploy custom agentic services using an AI studio, the IBM watsonx platform has you covered.
+
+Explore watsonx Orchestrate
+Explore watsonx.ai
+Footnotes
+1 The state of AI in 2023: Generative AI’s breakout year. McKinsey. August 1, 2023
+
+2 Gartner Says More Than 80% of Enterprises Will Have Used Generative AI APIs or Deployed Generative AI-Enabled Applications by 2026. Gartner. October 11, 2023
+
+Footnotes
+1 The state of AI in 2023: Generative AI’s breakout year. McKinsey. August 1, 2023
+
+2 Gartner Says More Than 80% of Enterprises Will Have Used Generative AI APIs or Deployed Generative AI-Enabled Applications by 2026. Gartner. October 11, 2023
+
+Discover
+Products
+Consulting services
+Industries
+Case studies
+Financing
+Research
+ 
+Follow
+LinkedIn
+X
+Instagram
+YouTube
+Podcasts
+ 
+Connect
+Business partners
+Documentation
+Events
+Newsletters
+Support
+TechXchange community
+ 
+About
+Overview
+Careers
+Investor relations
+Leadership
+Newsroom
+Security, privacy and trust
+Contact IBM
+Privacy
+Terms of use
+Accessibility
+Cookie Preferences

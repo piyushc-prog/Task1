@@ -1,0 +1,252 @@
+Skip to Main content
+Elsevier logo
+Journals & Books
+
+Help
+Search
+My account
+Sign in
+Election Campaign
+In subject area: Computer Science
+
+An 'Election Campaign' is defined as the strategic use of marketing principles and procedures by political parties and candidates to influence public opinion in their favor, with the main goal of obtaining votes to get elected.
+
+AI generated definition based on: Strategy, Leadership, and AI in the Cyber Ecosystem, 2021
+
+How useful is this definition?
+
+Press Enter to select rating, 1 out of 3 stars
+Press Enter to select rating, 2 out of 3 stars
+Press Enter to select rating, 3 out of 3 stars
+
+About this page
+Add to Mendeley
+
+Set alert
+Also in subject area:
+Social Sciences
+Discover more topics
+On this page
+Definition
+Chapters and Articles
+Related Terms
+Recommended Publications
+Chapters and Articles
+You might find these chapters and articles relevant to this topic.
+
+Chapter
+
+An analysis of the perceptions of the role of social media marketing in shaping the preferences of the electorate: A case study of the 2018 Colombian presidential election
+2.2 Political marketing
+Much like businesses develop marketing strategies to sell their products, political parties and candidates also attempt to promote their policies and beliefs by using marketing strategies to influence public opinion in their favour. This is known as political marketing and can be defined as the application of marketing principles and procedures in political campaigns by various individuals and organisations, including the management and execution of strategic campaigns by candidates and political parties to influence public opinion (Newman, 1999). Political marketing is also a fundamental part of the political world and its structure. Politicians use marketing methods to accomplish their political goals, and political marketing has all the elements that a marketing strategy to sell a product or a service would require. According to Lees-Marshment (2014), in politics, especially in political campaigns, market research is used to understand the electorate's wants and needs, with voter profiling used to identify target segments. Hence, political marketing is about how political elites use marketing tools and strategies to understand and interact with their political market to achieve their goals, the main one being obtaining votes to get elected.
+
+Furthermore, McNair (2017) agrees that political parties have developed communication strategies that belong to the corporate and business world, including marketing techniques, to influence behaviours by stating that “political marketing is similar to commercial marketing to such an extent that political organisations like those in the commercial sector must target audiences using mass communication channels in a competitive environment where the citizen or consumer has more than one choice.” Political marketing uses many of the principles applied to the promotion of products and services, such as using forms of communication to differentiate between products, which in this case are political parties and their candidates. Maarek (2008) states that political marketing is considered one of the most demanding applications of political communication, as it takes precedence in the election campaign and influences its strategy, especially in targeting action for resilient voters, and it is also fundamental for a campaign's decision-making process.
+
+Therefore it influences and modifies the contents of politics itself along with the increase of the personalisation of political communications as people tend to focus on the candidate personal features rather than what he/she represents politically.
+
+In terms of the aims of political marketing, Butler et al. (2007) state that it is about creating and maintaining a solid relationship with the voter, as it allows the candidates to meet their goals through a mutual relationship. Having a mutual relationship with the electorate is fundamental in developing a successful political campaign because, as a consequence, the interests and requirements of the voters are clear, and it is easier for the candidates to understand the electorate and offer them what they want in exchange of support in the form of votes. The political marketing process should be done by implementing traditional marketing methods such as market segmentation to target the voters and their needs and preferences for the propose of establishing an effective policy that enable candidates to satisfy the preferences of the electorate (Smith and Saunders, 1990). In the same fashion, Baines et al. (2002) claim that political marketing is the communication process between voters and political bodies to close the gap between the voter's requests and what candidates and political parties have to offer. In addition, there are some indispensable elements in marketing planning that facilitate the creation of a competitive advantage. These include identifying the competition and segmenting the relevant voting groups, allowing parties to approach voters that are likely to change their voting preference, for example, swing voters.
+
+
+Show more
+Book
+2021, Strategy, Leadership, and AI in the Cyber Ecosystem
+Natalia Gomez Arteaga, Lillian Clark
+Chapter
+
+An analysis of the perceptions of the role of social media marketing in shaping the preferences of the electorate: A case study of the 2018 Colombian presidential election
+2.3 Social media for political marketing
+The rise in popularity of social media platforms has provided a place for political marketing to establish a political marketplace where candidates and political parties can influence and drive public opinion of their convenience and interest (Safiullah et al., 2017). Social media platforms such as Twitter and Facebook have gradually transformed how political campaigns are developed and consequently how politicians share information and citizens learn about politics (Dimitrova and Matthes, 2018). Social networks are new ways of approaching the structure of politics, elections, and some specific elements of the government (Mayorga and Cordova, 2007) as politicians have linked their legitimacy and acceptance on how they manage their governance period on social media platforms (Ruano et al., 2018). Social media, therefore, is a very important element of political communication as it allows Internet users to share information rapidly and to influence opinions through the use of platforms such as Twitter and Facebook and where political actors not only seek to influence and engage with users but also monitor and respond to what they perceive as the views of those users on political affairs. In summary, social media has created a more attractive and effective channel for candidates to communicate their messages during election campaigns (McNair, 2017).
+
+Williams (2017) agrees with this approach, stating that “Facebook, Twitter and Instagram create new ways to market politics through new channels for candidates and voters to interact and it has allowed unaccredited people to register their support or opposition in a campaign phase previously limited to elites.” Additionally, the Internet has established a communication platform that is larger and faster than the traditional forms of media and where social media plays a fundamental role. Social media has been gradually integrated as a tool in election campaigns and political communications as political actors use this channel to promote themselves and build an image. Furthermore, communication via social media channels makes for a more personal and direct interaction between candidates and voters and consequently provides personalisation to politics as the main focus of the campaign is the candidate, not the political party (Enli and Skogerbø, 2012). Social media also represents the ideal vehicle and information base for politicians, political parties, and governments to measure public opinion and to build community support for candidates (Zeng et al., 2010).
+
+Social media has drastically changed the way that government and political actors operate and communicate, as well as the manner in which elections are implemented. It informs the public on political matters and allows for political expression and facilitates community building to find solutions for similar interests and needs, providing the possibility for more voices to be heard and to reach the most disinterested of citizens (Owen, 2017). Social media used as a tool for political marketing is a worldwide phenomenon, and according to Puertas et al. (2018), in Latin America, social networks are used to interact with followers and for candidates to be able to influence the electorate's voting preferences. “In Latin America, 63% of the population have active social media accounts and government institutions use social media as a tool for their communication strategy” (Puertas et al., 2018). In 2018 Colombia had around 29 million social media users, with almost half a million following the official account of the presidency and 1 million following the president himself (Facebook, 2018). This strongly supports the idea that social media is a channel of preference for political communication and aspects in Colombia and it is also where a significant amount of political interaction and participation take place.
+
+
+Show more
+Book
+2021, Strategy, Leadership, and AI in the Cyber Ecosystem
+Natalia Gomez Arteaga, Lillian Clark
+Chapter
+
+Election Polls, Margin for Error in
+The 2000 Presidential Election Polls
+An analysis by Michael Traugott of the performance of the 2000 presidential election polls in the United States shows that, as a group, the polls performed better than did polls in the 1996 election, in terms of predicting the percentage of the two-party vote received by each candidate. Though polls in 1996 correctly showed a Clinton victory over Bob Dole, most significantly overestimated the size of the Clinton victory. Most polls in 2000 showed George Bush with a very narrow lead over Al Gore. Although Gore actually won the popular vote, the national polls got much closer to Bush's actual percentage of the vote than they got to Clinton's 4 years earlier. The problem with the year 2000 presidential election poll was that the statistical models could not overcome the null hypothesis; the national vote total was a virtual tie. With each candidate receiving 50% of the vote, the race was indeed a tie, and no poll of an achievable size would have a margin for error of less than a percentage point!
+
+There are lots of reasons to be concerned about the use of election polling in the media; overnight tracking polls, so-called push polls, instant polls, and Internet polls are among the methodologies that have inherent problems. In particular, the push poll, in which a negative campaign message is disguised as a polling call, is downright dishonest. The traditional, large-sample preelection poll, however, is based on sound social science and statistical theory. Despite its flaws, the modern telephone poll is the best, and cheapest, way to get a snapshot of public opinion in a dynamic election campaign.
+
+Reference work
+2005, Encyclopedia of Social Measurement
+Charles W. Leonard
+Review article
+
+Anti-politics or the triumph of postmodern populism in promotional cultures?
+However, evidence from focus groups run by Kathleen Hall-Jamieson during the 1988 presidential election campaign in the USA, paints a less sanguine picture. Writing about the use of the William “Willie” Horton ads by the Bush campaign, she argues that they encouraged, almost demanded a visceral response from viewers, in which the cognitive processing and evaluation of the message were overridden by the drama of the storyline, the stark visual images, by emotion and, in this case, by the Eloi’s underlying fear of the Morlocks. Among Hall-Jamieson’s own focus groups some participants, even some of those previously inclined to support Dukakis, renounced their allegiance after extensive showing and coverage of the advertisements. Our own data on the 1997 general election in the UK suggest that uncommitted young voters may be moved by certain types of political advertising, but that they were often responding to the production values in party election broadcasts, behaving as critics rather than consumers.
+
+Journal
+1998, Telematics and Informatics
+Barrie Axford, Richard Huggins
+Review article
+
+Anti-politics or the triumph of postmodern populism in promotional cultures?
+Yet even if this is true, such developments are still likely to feel disabling for those activists caught up in the changes and discommoding too for those commentators who have perhaps mistaken a transient index of political organization—the mass political party—for a modal democratic phenomenon. Other commentators, among them mainstream political activists and parliamentarians, are exercised by what one former British MP, referring to the activities of groups disputing the extension of a regional airport near Manchester, called “[this] perversion of the normal democratic processes”. There seem to be two main reasons for this energetic response, which although couched at different levels of generality, are part of the same overarching objection. The first rehearses concerns about the democratic propriety of single-issue groups in general, especially where, as in the UK, they use public media to promote their cause during election campaigns by trading on their new-found and by implication, counterfeit, party-political status. The Pro-Life Alliance, along with other pressure parties such as the Referendum Party, took advantage of the UK rules governing the granting of one party-election broadcast on all public TV channels. The second objection questions the democratic credentials of these groups when set against the established canon, that is, the familiar politics of democratic elitism, where member parties of a more-or-less brokerage kind compete periodically for support among the electorate. On this basis, the Referendum Party in the UK was dismissed by critics as a rich man’s plaything, and those groups with more street-cred, like the anti-roads protesters, as passionate but misguided, bombed out on both Ecstasy and e-mail.
+
+Journal
+1998, Telematics and Informatics
+Barrie Axford, Richard Huggins
+Chapter
+
+An analysis of the perceptions of the role of social media marketing in shaping the preferences of the electorate: A case study of the 2018 Colombian presidential election
+2 Literature review
+2.1 Overview
+This section will analyse and review the extant literature surrounding the topics and themes laid out in the previous section, by establishing a framework of published literature and theories in regard to the use of social media in political marketing and political participation. Through developing an understanding of the literature, a hypothesis will be formulated to answer the problem question. Therefore publications focussing on political marketing, social media in political marketing and political participation, and word of mouth in digital marketing will be the focus of this analysis and review.
+
+2.2 Political marketing
+Much like businesses develop marketing strategies to sell their products, political parties and candidates also attempt to promote their policies and beliefs by using marketing strategies to influence public opinion in their favour. This is known as political marketing and can be defined as the application of marketing principles and procedures in political campaigns by various individuals and organisations, including the management and execution of strategic campaigns by candidates and political parties to influence public opinion (Newman, 1999). Political marketing is also a fundamental part of the political world and its structure. Politicians use marketing methods to accomplish their political goals, and political marketing has all the elements that a marketing strategy to sell a product or a service would require. According to Lees-Marshment (2014), in politics, especially in political campaigns, market research is used to understand the electorate's wants and needs, with voter profiling used to identify target segments. Hence, political marketing is about how political elites use marketing tools and strategies to understand and interact with their political market to achieve their goals, the main one being obtaining votes to get elected.
+
+Furthermore, McNair (2017) agrees that political parties have developed communication strategies that belong to the corporate and business world, including marketing techniques, to influence behaviours by stating that “political marketing is similar to commercial marketing to such an extent that political organisations like those in the commercial sector must target audiences using mass communication channels in a competitive environment where the citizen or consumer has more than one choice.” Political marketing uses many of the principles applied to the promotion of products and services, such as using forms of communication to differentiate between products, which in this case are political parties and their candidates. Maarek (2008) states that political marketing is considered one of the most demanding applications of political communication, as it takes precedence in the election campaign and influences its strategy, especially in targeting action for resilient voters, and it is also fundamental for a campaign's decision-making process.
+
+Therefore it influences and modifies the contents of politics itself along with the increase of the personalisation of political communications as people tend to focus on the candidate personal features rather than what he/she represents politically.
+
+In terms of the aims of political marketing, Butler et al. (2007) state that it is about creating and maintaining a solid relationship with the voter, as it allows the candidates to meet their goals through a mutual relationship. Having a mutual relationship with the electorate is fundamental in developing a successful political campaign because, as a consequence, the interests and requirements of the voters are clear, and it is easier for the candidates to understand the electorate and offer them what they want in exchange of support in the form of votes. The political marketing process should be done by implementing traditional marketing methods such as market segmentation to target the voters and their needs and preferences for the propose of establishing an effective policy that enable candidates to satisfy the preferences of the electorate (Smith and Saunders, 1990). In the same fashion, Baines et al. (2002) claim that political marketing is the communication process between voters and political bodies to close the gap between the voter's requests and what candidates and political parties have to offer. In addition, there are some indispensable elements in marketing planning that facilitate the creation of a competitive advantage. These include identifying the competition and segmenting the relevant voting groups, allowing parties to approach voters that are likely to change their voting preference, for example, swing voters.
+
+2.3 Social media for political marketing
+The rise in popularity of social media platforms has provided a place for political marketing to establish a political marketplace where candidates and political parties can influence and drive public opinion of their convenience and interest (Safiullah et al., 2017). Social media platforms such as Twitter and Facebook have gradually transformed how political campaigns are developed and consequently how politicians share information and citizens learn about politics (Dimitrova and Matthes, 2018). Social networks are new ways of approaching the structure of politics, elections, and some specific elements of the government (Mayorga and Cordova, 2007) as politicians have linked their legitimacy and acceptance on how they manage their governance period on social media platforms (Ruano et al., 2018). Social media, therefore, is a very important element of political communication as it allows Internet users to share information rapidly and to influence opinions through the use of platforms such as Twitter and Facebook and where political actors not only seek to influence and engage with users but also monitor and respond to what they perceive as the views of those users on political affairs. In summary, social media has created a more attractive and effective channel for candidates to communicate their messages during election campaigns (McNair, 2017).
+
+Williams (2017) agrees with this approach, stating that “Facebook, Twitter and Instagram create new ways to market politics through new channels for candidates and voters to interact and it has allowed unaccredited people to register their support or opposition in a campaign phase previously limited to elites.” Additionally, the Internet has established a communication platform that is larger and faster than the traditional forms of media and where social media plays a fundamental role. Social media has been gradually integrated as a tool in election campaigns and political communications as political actors use this channel to promote themselves and build an image. Furthermore, communication via social media channels makes for a more personal and direct interaction between candidates and voters and consequently provides personalisation to politics as the main focus of the campaign is the candidate, not the political party (Enli and Skogerbø, 2012). Social media also represents the ideal vehicle and information base for politicians, political parties, and governments to measure public opinion and to build community support for candidates (Zeng et al., 2010).
+
+Social media has drastically changed the way that government and political actors operate and communicate, as well as the manner in which elections are implemented. It informs the public on political matters and allows for political expression and facilitates community building to find solutions for similar interests and needs, providing the possibility for more voices to be heard and to reach the most disinterested of citizens (Owen, 2017). Social media used as a tool for political marketing is a worldwide phenomenon, and according to Puertas et al. (2018), in Latin America, social networks are used to interact with followers and for candidates to be able to influence the electorate's voting preferences. “In Latin America, 63% of the population have active social media accounts and government institutions use social media as a tool for their communication strategy” (Puertas et al., 2018). In 2018 Colombia had around 29 million social media users, with almost half a million following the official account of the presidency and 1 million following the president himself (Facebook, 2018). This strongly supports the idea that social media is a channel of preference for political communication and aspects in Colombia and it is also where a significant amount of political interaction and participation take place.
+
+2.4 Social media and political participation
+As Melis and Keating (2017) state, it is widely believed that participation in public affairs through the traditional methods of democratic engagement has declined in many developed countries as citizens look to find more innovative forms to express their political preferences. Social media plays a fundamental role in the forging of new methods of political and civic participation, as it can increase an individual's contact with political information and social movements when other social media users, including friends and family, express their political interests or opinions. This can motivate the individual curiosity for political information by becoming part of political acts or discussions. In the same manner, Skoric et al. (2016) also agree that the use of social media to keep updated with the public affairs has enabled citizens to increase their political participation, defined as “behaviours aimed at influencing formal political institutions and affecting their decisions.” Political participation therefore includes the acts of voting, protesting, campaigning, liking candidates on Facebook, and sharing campaign material.
+
+Gil and Shahin (2015) demonstrate that the more people use social networks for obtaining information, the more likely they are to involve themselves in civic activities, including online and offline political participation. From this, it can therefore be stated that social media has a positive impact on political participation. Additionally, informal discussions via online networks about public affairs and sharing interests and opinions about a public affair problem can contribute to civic participation. “More than half of Internet users receive information on current affairs through Facebook, YouTube and Twitter. Social media have been playing a fundamental role for the battle of achieving hegemony, and more than a tool it is the scene itself where this battle develops” (Moreno, 2017). Research conducted by Gil et al. (2014) found that the use of social media as a news source has a direct effect on offline political participation. Nonetheless, it does not have a direct impact on people's engagement with politics, but rather has an indirect effect by means of citizens expressing themselves politically, which could lead to political participation, referring to political expression as opinions and political participation as actions.
+
+2.5 Word of mouth in digital marketing
+Word of mouth marketing relates to what people say and tell other people about a product, service, or brand and the reputation that is built around it. It constitutes an important element of marketing communications and strategy as it is a way of attracting more customers and increasing brand reputation and awareness. According to Sernovitz (2012), word of mouth marketing is when a business or brand gives people a reason to talk about the products and services that they offer or about the brand itself, either by communicating to someone face to face or in the form of a comment or review. It is also about facilitating the space and circumstances for that conversation to take place and making the product, service, or brand interesting and attractive enough for consumers or the public in general to repeat the idea based on the business and make it popular. Additionally, it is important to offer good quality and a positive experience to the costumers, and as a consequence, they are more likely to tell other people their good experience, therefore generating more customers. On the other hand, if the experience was negative, the voice will be proliferated, and the reputation will be at risk.
+
+In this way, Trusov et al. (2009) agree that word-of-mouth communication is an effective strategy because it can attract the consumers that have the most resistance and can be done in a low-cost way, especially with the rapid communications and interactions of the Internet and more specifically social media activity. And customers that have been acquired through word of mouth tend to add more long-term value to the company or brand than those acquired through traditional marketing channels. Word of mouth makes the decision-making process of purchasing a product easier as it only takes to ask someone about their experience with that product or service, instead of going through the searching period before of purchasing “what customers want is the best product they can get with the easiest decision-making process” (Silverman, 2011).
+
+2.6 Conclusion
+Having reviewed the extant literature, it can be said that political marketing, together with its strategies such as segmentation, targeting, and word of mouth, is a determinant in the decision-making process of the electorate as seen in Section 2.2. With the rise of the Internet and social media platforms, these marketing strategies have only intensified and strengthened the marketing communication and have motivated political participation of citizens referring to Sections 2.3 and 2.4. Word of mouth is the element that has the biggest influence on the decision-making process of the electorate as seen in Section 2.5. This is supported by Nieto et al. (2014), who state that “users generally trust other consumers more than sellers” (Nieto et al., 2014) as people tend to trust other people more and what they say, than adverts or marketing campaigns. Nonetheless, it can be said that there is a lack of research about the literature around word of mouth in political marketing. To develop this study the concepts and theories related to the role of social media in political participation and political marketing and the word of mouth in social media in relationship with political participation will be implemented.
+
+2.7 Conceptual model: Hypothesis and prepositions
+Unlabelled Image
+Sign in to download full-size image
+Preposition 1
+
+Social media as a tool of political marketing had a role influencing the decisions of the electorate during political campaigns of presidential elections in Colombia 2018.
+
+
+Unlabelled Image
+Sign in to download full-size image
+Preposition 2
+
+Word of mouth in social media has a significant role influencing the decisions of the electorate during the political campaigns of presidential elections in Colombia 2018.
+
+
+Alternative Hypothesis:
+H1: Voters perceive social media as having a role influencing the decisions of the electorate during the political campaign of presidential elections in Colombia 2018.
+
+H2: Sharing political-related post on social media had an impact on voting preferences during the 2018 presidential elections in Colombia.
+
+Null Hypothesis:
+H1: Voters do not perceive social media as having a role influencing the decisions of the electorate during the political campaign of presidential elections in Colombia 2018.
+
+H2: Sharing political-related post on social media did not have an impact on the voting preferences during the 2018 presidential elections in Colombia.
+
+On review of the literature, political marketing can be summarised as the execution of campaigns by a candidate and political parties, to create a relationship with the electorate and understand their needs and preferences and target with the goal of influencing the public opinion and obtain votes (Newman, 1999; Lees-Marshment, 2014; Maarek, 2008; Butler et al., 2007; Smith and Saunders, 1990). Social media is a fundamental part of political marketing as it allows candidates to establish a political market place where they can promote themselves and influence public opinion in a more effective way (Safiullah et al., 2017; Dimitrova and Matthes, 2018; Williams, 2017; Enli and Skogerbø, 2012; McNair, 2017; Mayorga and Cordova, 2007). Furthermore, social media has enabled citizens to participate more in political matters as it allows access to information and the formation of direct relationships with governments and political actors where they can get involved in political matters and their voices can be heard. Additionally, seeing other people share their opinions in politics can influence users and shape their preferences (Ekstrom and Shehata, 2016; Melis and Keating, 2017; Skoric et al., 2016; Gil et al., 2014, 2017; Ayankoya et al., 2014; Boulianne, 2015; Chan et al., 2016; Jost et al., 2018; Valeriani and Vaccari, 2015; Uldam and Vestergaard, 2015). Word-of-mouth communication can significantly influence voter preferences as consumers find word of mouth a very attractive source of information (Chowdury and Naheed, 2018; Argan and Argan, 2012; Ozturk and Coban, 2019) and users trust other consumers more than the sellers themselves; in this case the sellers are the political candidates (Nieto et al., 2014).
+
+The purpose of this study is to investigate whether social media marketing influences the preferences and decision-making process of the electorate when voting and to what extent sharing politically related posts on social media effects political preferences. Additionally, this study aims to find out whether word of mouth played a significant role in shaping voter preferences during the 2018 presidential elections in Colombia. As evidenced from the literature review, surveys and case studies are the prevalent research methods used to obtain findings in studies of this nature as demonstrated by (Valeriani and Vaccari, 2015; Ozturk and Coban, 2019; Argan and Argan, 2012; Chowdury and Naheed, 2018) who used surveys and case studies to analyse voting behaviours. However, to obtain a more complete understanding of the case study, interviews will also be conducted as a method of data collection to prove the previously established prepositions and hypotheses.
+
+
+Show more
+Book
+2021, Strategy, Leadership, and AI in the Cyber Ecosystem
+Natalia Gomez Arteaga, Lillian Clark
+Chapter
+
+Mass Communication: Empirical Research
+7 The Need for Empirical Research on Mass Communication
+Because huge fortunes and business empires are integral to mass communication, academic claims about the harm these institutions might do, or ways they can serve society better, face skeptics within both industry and policy circles. ‘How do you know that?’ is a common query faced by critics of media violence, election campaign reformers, and protectors of young consumers alike. Media institutions collectively occupy an ever larger position in society, as do our ways of studying them.
+
+Reference work
+2001, International Encyclopedia of the Social & Behavioral Sciences
+S. Chaffee
+Chapter
+
+Lazarsfeld, Paul Felix (1901–76)
+3 Mass Communications and Political Sociology
+Lazarsfeld and associates undertook two major election campaign studies, in 1940 (People's Choice 1944) and in 1948 (Voting 1954), both using a longitudinal design of repeated interviews with potential voters over several months in typical towns, and a study of opinion leadership among 800 women about marketing, fashion, movies, and public affairs (Personal Influence 1955) which used snowball sampling enabling influentials repeatedly named by the initial sample to be interviewed in turn. The findings challenged the conventional wisdom on democratic theory and on the mass media.
+
+Political opinions and voting are only in part based on informed, calculated interest reflecting the arguments of parties, platforms, and candidates. Voting and opinion are social validations of group membership by conformity to social milieus and family tradition. Campaigns reinforce existing views rather than change them, reactivate those who were disengaged from politics, and foster turnout and participation. Much of the public have their minds made up early in the campaign. The least informed and those under cross-pressures from multiple group memberships delay making choices, are the most likely nonvoters, and are the most likely to switch their vote between parties. Lazarsfeld's discoveries challenged the common notion that democracy would only work with an informed and enlightened public.
+
+The impact of the mass media on voting is modest. Voters expose themselves selectively to views they tend to agree with. Moreover, in what he called the two-step flow of communication, people seek political guidance from opinion leaders in proximate social milieus—at work, in neighborhoods, in families—who are a transmission belt for public affairs and attitudes from the political class to the citizenry. Interpersonal communication is flexible and casual, from a trusted source, which makes it more effective than mass communications. Opinion leaders are found in every group and social stratum, and reinforce the dominant views of these social milieus. Thus, there is no large political influence from elites and top strata down to the lower strata. The impact of the mass media is limited and interpersonal communication has a conserving and differentiating effect on political opinion, attitudes, and choices. These findings challenged the views of many intellectuals, culture critics, and mass society theorists.
+
+Lazarsfeld was open to criticism and was his own critic as well. On political sociology, he knew that he had neglected the institutional side of politics—political parties as organizations, platforms, choice of agendas. In mass communications, he regretted not studying the ‘inside of the communications industry.’ There were also missed opportunities: the pioneering campaign studies were not followed with studies of national campaigns that the University of Michigan's Survey Research Center undertook. And when television became the dominant mass medium, Lazarsfeld and the Bureau failed to develop a research program that was both acceptable to and supportable by the foundations and the networks.
+
+Reference work
+2001, International Encyclopedia of the Social & Behavioral Sciences
+A.R. Oberschall
+Chapter
+
+Mass Communication: Empirical Research
+4.3 Radio
+During its heyday from the 1920s into the 1950s, radio fit the image of a mass medium more fully than did film, reigning as the channel Americans used most in that period. In many countries of the world today, radio remains the most ubiquitous medium and it is frequently studied in connection with rural development projects (Schramm 1977). But research on radio in the US shrank to a trickle after its social and cultural role was overrun by television in the 1950s. Earlier, though, radio networks headquartered in New York provided the context for the first organized mass communication research institute, Paul Lazarsfeld's Office of Radio Research at Columbia University. Despite its nominal dedication to radio, Lazarsfeld extended his research program to newspapers and interpersonal communication as factors in, for example, presidential election campaigns (Lazarsfeld et al. 1944, Berelson et al. 1954). The research team also probed public reactions to entertainment, such as a dramatization of an invasion from outer space (Cantril 1940). Long after radio lost its main audience to television, Lazarsfeld's radio research group left an important theoretical imprint in the ‘limited effects’ or ‘minimal consequences’ model of mass communication (Klapper 1960).
+
+Reference work
+2001, International Encyclopedia of the Social & Behavioral Sciences
+S. Chaffee
+Chapter
+
+Media Effects
+2 Persuasion
+From about 1940 to 1960, research on media effects focused on the study of persuasion, that is, on whether the media can tell us ‘what to think’ or what to do. More formally, the question is whether the media are able to induce (a) change (b) in the opinions, attitudes, and actions (c) of individuals (d) in the short-run (e) by means of campaigns of persuasive appeals. This work centered on Carl Hovland at Yale and Paul Lazarsfeld at Columbia, but the paradigm also applies to studies of advertising's wartime propaganda and, somewhat circuitously, to studies of the effect on children of media portrayals of violence.
+
+Hovland's group were experimentalists (McGuire 1996) who varied the rhetoric of persuasive messages–fear appeals, repetition, one-sided vs. two-sided arguments—in order to assess their impact on attitude change both in the laboratory and in the real-life orientation of American soldiers during World War II. Hovland (1959) gave much thought to the problem of why change is more likely in the laboratory than in the field.
+
+Lazarsfeld and his co-workers worked in the field, applying survey research to the study of mass persuasion, particularly to how people make up their minds in election campaigns. The well-known results of this work, as summarized by Klapper (1960), is that the media have only ‘limited effects,’ that is, that the response of attempts to influence individuals via mass media is more likely to reinforce prior attitudes than to change them. Explanation of these results, in turn, led to an interest in the obstacles that persuasive message encounter enroute to their targets as well as the conditions under which they are most likely to succeed. Two of the identified obstacles were the tendency to protect prior cognitions and prejudices through selective attention, perception, and retention, and the tendency to anchor opinions and attitudes in small groups of valued others, from whose norms and network, members are reluctant to depart unilaterally. Academically, these studies reflected the then-current interest in the social psychology of influence, in the validity of the theories of mass society in which individuals were thought to be disconnected from each other, in the power of radio which had just come of age, and, not least, in the methodology of survey research which nurtured the twin fields of opinion and communication.
+
+Persuasive messages are more likely of success, it was thought, if they could be harnessed to existing cognitions (canalization), and endorsed by existing social networks (supplementation). Monopolization of the message, as in totalitarian societies, was also thought to enhance effect (Lazarsfeld and Merton 1948). It is ironic, but probably true, that these assertions comforted the media establishment by absolving them of the sin of brainwashing (even at the expense of deflating their egos). Researchers were comforted, too, that the mass was less vulnerable than had been feared (even at the expense of failing to find ‘powerful effects’).
+
+Belief in the persuasive potential of the media—certainly among politicians and advertisers, but also among researchers in fields such as public health, for example—has fueled continuing efforts to identify the conditions under which communications campaigns are more likely to succeed (McGuire 1986). The ability of the new media to custom-tailor their messages is a new condition of research interest (Turow 1997). Most researchers do not deny ‘limited effects.’ Some, however, dissent (e.g., Zaller 1996, Iyengar and Simon 2000), arguing that research on short-run effects is poorly designed in that it fails to take account both of the variance in the reach of competing messages—say in an election campaign—and variance in the attention of message receivers to information and influence.
+
+
+Show more
+Reference work
+2001, International Encyclopedia of the Social & Behavioral Sciences
+E. Katz
+Related terms:
+Information Warfare
+Malware
+Interpretability
+Online Social Networks
+Opinion Leader
+Political Actor
+Event Detection
+Social Medium Platform
+Adversarial Machine Learning
+View all Topics
+Recommended publications
+
+Government Information Quarterly
+Government Information Quarterly
+Journal
+Information Processing & Management
+Information Processing & Management
+Journal
+Computers in Human Behavior
+Computers in Human Behavior
+Journal
+Online Social Networks and Media
+Online Social Networks and Media
+Journal
+Elsevier logo with wordmark
+About ScienceDirect
+Remote access
+Contact and support
+Terms and conditions
+Privacy policy
+Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+RELX group home page

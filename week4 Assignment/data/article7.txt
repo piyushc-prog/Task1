@@ -1,0 +1,273 @@
+Encyclopedia Britannica
+Search Britannica
+Search Britannica...
+ Ask the ChatbotGames & QuizzesHistory & SocietyScience & TechBiographiesAnimals & NatureGeography & TravelArts & CultureProConMoneyVideos
+crude oil
+Introduction & Top Questions
+Chemical and physical properties
+Extraction and processing
+References & Edit History
+Related Topics
+Images & Videos
+Offshore oil pumpjack mounted on a small concrete platform in open water, with drilling rigs and industrial structures visible on the horizon.Siberia, Russia: oil wellcrude oilcrude oils
+Turning sewage into green crude oil: How does it work?
+Quizzes
+Encyclopaedia Britannica thistle graphic to be used with a Mendel/Consumer quiz in place of a photograph.
+13 True-or-False Questions from Britannica’s Easiest Science Quizzes
+Related Questions
+What are the main components of crude oil?
+How is crude oil classified based on API gravity?
+What distinguishes sweet crude from sour crude?
+Technology
+Industry
+Chemical Products
+
+CITE
+
+Offshore oil pumpjack mounted on a small concrete platform in open water, with drilling rigs and industrial structures visible on the horizon.
+Oil derrick near Venezuela Unrefined petroleum pumped from the ground is called crude oil.
+crude oil
+petroleum product
+ 
+Britannica Editors  Mar. 16, 2026 •History
+Britannica AI Icon
+Britannica AI
+Ask Anything
+Top Questions
+What are the main components of crude oil?
+How is crude oil classified based on API gravity?
+What distinguishes sweet crude from sour crude?
+News • US stocks climb to their best day since the Iran war began after oil prices ease • Mar. 16, 2026, 5:22 PM ET (AP) 
+crude oil, liquid petroleum that is found accumulated in various porous rock formations in Earth’s crust and is extracted for burning as fuel or for processing into chemical products.
+
+A summary treatment of crude oil follows. For full treatment, see petroleum, petroleum production, and petroleum refining.
+
+Chemical and physical properties
+Siberia, Russia: oil well
+Siberia, Russia: oil wellCrude oil is pumped from a well in western Siberia, Russia.
+Crude oil is a mixture of comparatively volatile liquid hydrocarbons (compounds composed mainly of hydrogen and carbon), though it also contains some nitrogen, sulfur, and oxygen. Those elements form a large variety of complex molecular structures, some of which cannot be readily identified. Regardless of variations, however, almost all crude oil ranges from 82 to 87 percent carbon by weight and 12 to 15 percent hydrogen by weight.
+
+Encyclopaedia Britannica thistle graphic to be used with a Mendel/Consumer quiz in place of a photograph.
+Britannica Quiz
+13 True-or-False Questions from Britannica’s Easiest Science Quizzes
+Crude oils are customarily characterized by the type of hydrocarbon compound that is most prevalent in them: paraffins, naphthenes, aromatics, and asphaltene hydrocarbons. Paraffins are the most common hydrocarbons in crude oil; certain liquid paraffins are the major constituents of gasoline (petrol) and are therefore highly valued. Naphthenes are an important part of all liquid refinery products, but they also form some of the heavy asphaltlike residues of refinery processes. Aromatics generally constitute only a small percentage of most crudes. The most common aromatic in crude oil is benzene, a popular building block in the petrochemical industry. Asphaltene hydrocarbons are long-chained molecules that form the dissolved solids present in crude oil; they appear in refining residues and make up the bulk of hydrocarbons in asphalt, bitumen, and tar. As asphaltene content rises from 0 to 40 percent, the crude oil becomes darker, denser, and more viscous.
+
+crude oil
+crude oilA natural oil seep.
+Because crude oil is a mixture of such widely varying constituents and proportions, its physical properties also vary widely. In appearance, for instance, it ranges from colourless to black. Possibly the most important physical property is specific gravity (i.e., the ratio of the weight of equal volumes of a crude oil and pure water at standard conditions). In laboratory measurement of specific gravity, it is customary to assign pure water a measurement of 1; substances lighter than water, such as crude oil, would receive measurements less than 1. The petroleum industry, however, uses the American Petroleum Institute (API) gravity scale, in which pure water has been arbitrarily assigned an API gravity of 10°. Liquids lighter than water, such as oil, have API gravities numerically greater than 10. On the basis of their API gravity, crude oils can be classified as extra heavy (bitumen), heavy, medium, and light as follows:
+
+Extra heavy: below 10° API gravity
+Heavy: 10–20° API gravity
+Medium: 20–25° API gravity
+Light: above 25° API gravity
+Crude oil also is categorized as “sweet” or “sour” depending on the level of sulfur, which occurs either as elemental sulfur or in compounds such as hydrogen sulfide. Sweet crudes have sulfur contents of 0.5 percent or less by weight. Sour crudes, in general, have sulfur contents of 1 percent or more by weight; however, some petroleum companies classify sour crudes as any crude with sulfur contents in excess of 0.5 percent by weight. Generally, the heavier the crude oil, the greater its sulfur content. Excess sulfur is removed from crude oil during refining, because sulfur oxides released into the atmosphere during combustion of oil are a major pollutant.
+
+Extraction and processing
+Crude oil occurs underground, at various pressures depending on depth. It can contain considerable natural gas, kept in solution by the pressure. In addition, water often flows into an oil well along with liquid crude and gas. All these fluids are collected by surface equipment for separation. Clean crude oil is sent to storage at near atmospheric pressure, usually aboveground in cylindrical steel tanks that may be as large as 30 metres (100 feet) in diameter and 10 metres (33 feet) tall. Often crude oil must be transported from widely distributed production sites to treatment plants and refineries. Overland movement is largely through pipelines. Crude from more isolated wells is collected in tank trucks and taken to pipeline terminals; there is also some transport in specially constructed railroad cars. Overseas transport is conducted in specially designed tanker ships. Tanker capacities vary from less than 100,000 barrels to more than 3,000,000 barrels.
+
+Explore Britannica Premium!
+Go beyond the basics with trusted, in-depth knowledge for professionals, students, and lifelong learners.
+
+Penguin, ship, mountain, atlasshohei ohtani, plants, andy wharhol art
+crude oils
+crude oilsProduct content of five major crude oils.
+The primary destination of crude oil is a refinery. There any combination of three basic functions is carried out: (1) separating the many types of hydrocarbon present in crude oils into fractions of more closely related properties, (2) chemically converting the separated hydrocarbons into more desirable reaction products, and (3) purifying the products of unwanted elements and compounds. The main process for separating the hydrocarbon components of crude oil is fractional distillation. Crude oil fractions separated by distillation are passed on for subsequent processing into numerous products, ranging from gasoline and diesel fuel to heating oil to asphalt. The proportions of products that may be obtained by distillation of five typical crude oils, ranging from heavy Venezuelan Boscan to the light Bass Strait oil produced in Australia, are shown in the figure. Given the pattern of modern demand (which tends to be highest for transportation fuels such as gasoline), the market value of a crude oil generally rises with increasing yields of light products.
+
+Key People: Benjamin Silliman
+Related Topics: heavy oil and tar sand How Much Oil Passes Through the Strait of Hormuz? tar sand light oil rock oil
+In the United States, the conventional practice for the petroleum industry is to measure capacity by volume and to use the English system of measurement. For this reason, crude oil in the United States is measured in barrels, each barrel containing 42 gallons of oil. Most other areas of the world define capacity by the weight of materials processed and record measurements in metric units; therefore, crude oil outside the United States is usually measured in metric tons. A barrel of API 30° light oil would weigh about 139 kg (306 pounds). Conversely, a metric ton of API 30° light oil would be equal to approximately 252 imperial gallons, or about 7.2 U.S. barrels.
+
+The Editors of Encyclopaedia Britannica
+This article was most recently revised and updated by John P. Rafferty.
+fossil fuel
+Introduction
+Use as a power source
+Contributions to global warming
+References & Edit History
+Quick Facts & Related Topics
+Images & Videos
+bituminous coalfossil fueloil well
+Do fossil fuels really come from fossils?Keeling Curvegreenhouse gas emissionsglobal warming scenarioscarbon cycle
+At a Glance
+Combination shot of Grinnell Glacier taken from the summit of Mount Gould, Glacier National Park, Montana in the years 1938, 1981, 1998 and 2006.
+Pop Quiz: 18 Things to Know About Global Warming
+default image
+fossil fuel summary
+Quizzes
+Electric power lines against sunset (grid, power, wires, electrical, electricity)
+Energy & Fossil Fuels
+Encyclopaedia Britannica thistle graphic to be used with a Mendel/Consumer quiz in place of a photograph.
+13 True-or-False Questions from Britannica’s Easiest Science Quizzes
+Related Questions
+What is petroleum?
+Science
+Earth Science, Geologic Time & Fossils
+Earth Sciences
+
+CITE
+
+bituminous coal
+bituminous coal Piles of bituminous coal, a fossil fuel.
+fossil fuel
+Also known as: mineral fuel
+ 
+Otto C. Kopp  
+Britannica Editors  History
+Britannica AI Icon
+Britannica AI
+Ask Anything
+Top Questions
+What are fossil fuels?
+How are fossil fuels formed?
+What are the main types of fossil fuels?
+How are fossil fuels used to produce energy?
+fossil fuel, any of a class of hydrocarbon-containing materials of biological origin occurring within Earth’s crust that can be used as a source of energy.
+
+Fossil fuels include coal, petroleum, natural gas, oil shales, bitumens, tar sands, and heavy oils. All contain carbon and were formed as a result of geologic processes acting on the remains of organic matter produced by photosynthesis, a process that began in the Archean Eon (4.0 billion to 2.5 billion years ago). Most carbonaceous material occurring before the Devonian Period (419.2 million to 358.9 million years ago) was derived from algae and bacteria, whereas most carbonaceous material occurring during and after that interval was derived from plants.
+
+What do you think?
+Can Alternative Energy Effectively Replace Fossil Fuels?
+Explore the ProCon debate
+
+Use as a power source
+fossil fuel
+1 of 2
+fossil fuelCoal is burned to fuel this electric power plant in Rock Springs, Wyoming, U.S.
+oil well
+2 of 2
+oil wellAn oil well pumpjack.
+All fossil fuels can be burned in air or with oxygen derived from air to provide heat. This heat may be employed directly, as in the case of home furnaces, or used to produce steam to drive generators that can supply electricity. In still other cases—for example, gas turbines used in jet aircraft—the heat yielded by burning a fossil fuel serves to increase both the pressure and the temperature of the combustion products to furnish motive power.
+
+Combination shot of Grinnell Glacier taken from the summit of Mount Gould, Glacier National Park, Montana in the years 1938, 1981, 1998 and 2006.
+Britannica Quiz
+Pop Quiz: 18 Things to Know About Global Warming
+Do fossil fuels really come from fossils?
+Do fossil fuels really come from fossils?Learn more about the origins of fossil fuels.
+See all videos for this article
+Since the beginning of the Industrial Revolution in Great Britain in the second half of the 18th century, fossil fuels have been consumed at an ever-increasing rate. Today they supply more than 80 percent of all the energy consumed by the industrially developed countries of the world. Although new deposits continue to be discovered, the reserves of the principal fossil fuels remaining on Earth are limited. The amounts of fossil fuels that can be recovered economically are difficult to estimate, largely because of changing rates of consumption and future value as well as technological developments. Advances in technology—such as hydraulic fracturing (fracking), rotary drilling, and directional drilling—have made it possible to extract smaller and difficult-to-obtain deposits of fossil fuels at a reasonable cost, thereby increasing the amount of recoverable material. In addition, as recoverable supplies of conventional (light-to-medium) oil became depleted, some petroleum-producing companies shifted to extracting heavy oil, as well as liquid petroleum pulled from tar sands and oil shales. See also coal mining; petroleum production.
+
+Contributions to global warming
+Keeling Curve
+Keeling CurveThe Keeling Curve, named after American climate scientist Charles David Keeling, tracks changes in the concentration of carbon dioxide (CO2) in Earth's atmosphere at a research station on Mauna Loa in Hawaii. Despite small seasonal fluctuations in CO2 concentration, the overall trend shows that CO2 is increasing in the atmosphere.
+One of the main by-products of fossil fuel combustion is carbon dioxide (CO2). The ever-increasing use of fossil fuels in industry, transportation, and construction has added large amounts of CO2 to Earth’s atmosphere. Atmospheric CO2 concentrations fluctuated between 275 and 290 parts per million by volume (ppmv) of dry air between 1000 ce and the late 18th century but increased to 316 ppmv by 1959 and rose to 421 ppmv in 2023. CO2 behaves as a greenhouse gas—that is, it absorbs infrared radiation (net heat energy) emitted from Earth’s surface and reradiates it back to the surface. Thus, the substantial CO2 increase in the atmosphere is a major contributing factor to human-induced global warming. Methane (CH4), another potent greenhouse gas, is the chief constituent of natural gas, and CH4 concentrations in Earth’s atmosphere rose from 722 parts per billion (ppb) before 1750 to 1,859 ppb by 2018, before rising substantially to 1,919 ppb by 2023. To counter worries over rising greenhouse gas concentrations and to diversify their energy mix, many countries have sought to reduce their dependence on fossil fuels by developing sources of renewable energy (such as wind, solar, hydroelectric, tidal, geothermal, and biofuels) while at the same time increasing the mechanical efficiency of engines and other technologies that rely on fossil fuels.
+
+Related Topics: petroleum natural gas coal oil shale asphalt
+By the early 21st century, fossil fuels were providing roughly 80 percent of the world’s energy. Given the increasing risk posed to Earth’s climate by rising concentrations of greenhouse gases in the atmosphere, representatives from nearly 200 countries gathering in Dubai in 2023 at the 28th Conference of the Parties to the United Nations Framework Convention on Climate Change (COP28) agreed to begin to transition the world’s economies from fossil fuels to renewable energy. In order to achieve the goal of net-zero carbon emissions by 2050, which would do much to limit average warming worldwide to about 1.5 °C (2.7 °F) above preindustrial levels, the delegates urged countries to accelerate the build-out of solar, wind, and other renewable energy projects, with the objective of tripling renewable energy capacity by 2030.
+
+Otto C. Kopp The Editors of Encyclopaedia Britannica
+petroleum refining
+Introduction
+History
+Raw materials
+Basic refinery processes
+Petroleum products and their uses
+Petrochemicals
+Refinery plant and facilities
+References & Edit History
+Related Topics
+Images
+oil refinerystructures of common hydrocarbon compoundscrude oilsCrude-oil fractional distillation column diagramSchematic diagram of a fluid catalytic cracking unit.Unit operations in a hydroskimming refinery. Nonshaded portions show the basic distillation and recovery units that make up a simple topping refinery, which produces petrochemical feedstock and industrial fuels. Shaded portions indicate the units added to make up a hydroskimming facility, which can produce most transportation fuels.Unit operations in a conversion refinery. Shaded portions indicate units added to a hydroskimming refinery in order to build up a facility that can convert heavier distillates into lighter fuels and coke.Coryton oil refineryEsmeraldas: oil refinerypetroleum refinery
+Technology
+Industry
+
+CITE
+
+oil refinery
+oil refinery Aerial view of an oil refinery near New Orleans.
+petroleum refining
+ 
+John E. CarruthersAll  
+Britannica Editors  History
+Britannica AI Icon
+Britannica AI
+Ask Anything
+Quick Summary
+Top Questions
+What is petroleum refining?
+Why do we need to refine crude oil?
+What are the main steps in the petroleum refining process?
+What products are made from petroleum refining?
+petroleum refining, conversion of crude oil into useful products.
+
+History
+Distillation of kerosene and naphtha
+The refining of crude petroleum owes its origin to the successful drilling of the first oil wells in Ontario, Canada, in 1858 and in Titusville, Pennsylvania, U.S., in 1859. Prior to that time, petroleum was available only in very small quantities from natural seepage of subsurface oil in various areas throughout the world. However, such limited availability restricted the uses for petroleum to medicinal and specialty purposes. With the discovery of “rock oil” in northwestern Pennsylvania, crude oil became available in sufficient quantity to inspire the development of larger-scale processing systems. The earliest refineries employed simple distillation units, or “stills,” to separate the various constituents of petroleum by heating the crude oil mixture in a vessel and condensing the resultant vapours into liquid fractions. Initially the primary product was kerosene, which proved to be a more abundant, cleaner-burning lamp oil of more consistent quality than whale oil or animal fat.
+
+The lowest-boiling raw product from the still was “straight run” naphtha, a forerunner of unfinished gasoline (petrol). Its initial commercial application was primarily as a solvent. Higher-boiling materials were found to be effective as lubricants and fuel oils, but they were largely novelties at first.
+
+The perfection of oil-drilling techniques quickly spread to Russia, and by 1890 refineries there were producing large quantities of kerosene and fuel oils. The development of the internal-combustion engine in the later years of the 19th century created a small market for crude naphtha. But the development of the automobile at the turn of the century sharply increased the demand for quality gasoline, and this finally provided a home for the petroleum fractions that were too volatile to be included in kerosene. As demand for automotive fuel rose, methods for continuous distillation of crude oil were developed.
+
+Conversion to light fuels
+After 1910 the demand for automotive fuel began to outstrip the market requirements for kerosene, and refiners were pressed to develop new technologies to increase gasoline yields. The earliest process, called thermal cracking, consisted of heating heavier oils (for which there was a low market requirement) in pressurized reactors and thereby cracking, or splitting, their large molecules into the smaller ones that form the lighter, more valuable fractions such as gasoline, kerosene, and light industrial fuels. Gasoline manufactured by the cracking process performed better in automobile engines than gasoline derived from straight distillation of crude petroleum. The development of more powerful airplane engines in the late 1930s gave rise to a need to increase the combustion characteristics of gasoline and spurred the development of lead-based fuel additives to improve engine performance.
+
+During the 1930s and World War II, sophisticated refining processes involving the use of catalysts led to further improvements in the quality of transportation fuels and further increased their supply. These improved processes—including catalytic cracking of heavy oils, alkylation, polymerization, and isomerization—enabled the petroleum industry to meet the demands of high-performance combat aircraft and, after the war, to supply increasing quantities of transportation fuels.
+
+The 1950s and ’60s brought a large-scale demand for jet fuel and high-quality lubricating oils. The continuing increase in demand for petroleum products also heightened the need to process a wider variety of crude oils into high-quality products. Catalytic reforming of naphtha replaced the earlier thermal reforming process and became the leading process for upgrading fuel qualities to meet the needs of higher-compression engines. Hydrocracking, a catalytic cracking process conducted in the presence of hydrogen, was developed to be a versatile manufacturing process for increasing the yields of either gasoline or jet fuels.
+
+Explore Britannica Premium!
+Go beyond the basics with trusted, in-depth knowledge for professionals, students, and lifelong learners.
+
+Penguin, ship, mountain, atlasshohei ohtani, plants, andy wharhol art
+Environmental concerns
+By 1970 the petroleum-refining industry had become well established throughout the world. Delivery of crude oil to be refined into petroleum products had reached almost 2.3 billion tons per year (40 million barrels per day), with major concentrations of refineries in most developed countries. As the world became aware of the impact of industrial pollution on the environment, however, the petroleum-refining industry was a primary focus for change. Refiners added hydrotreating units to extract sulfur compounds from their products and began to generate large quantities of elemental sulfur. Effluent water and atmospheric emission of hydrocarbons and combustion products also became a focus of increased technical attention. In addition, many refined products came under scrutiny. Beginning in the mid-1970s, petroleum refiners in the United States and then around the world were required to develop techniques for manufacturing high-quality gasoline without employing lead additives, and beginning in the 1990s they were required to take on substantial investments in the complete reformulation of transportation fuels in order to minimize environmental emissions. From an industry that at one time produced a single product (kerosene) and disposed of unwanted by-product materials in any manner possible, petroleum refining has become one of the world’s most stringently regulated manufacturing industries, expending a major portion of its resources on reducing its impact on the environment as it processes some 4.6 billion tons of crude oil per year (roughly 80 million barrels per day).
+
+Related Topics: sweetening desulfurization superfractionation petroleum refinery blending
+Raw materials
+Hydrocarbon chemistry
+Petroleum crude oils are complex mixtures of hydrocarbons, chemical compounds composed only of carbon (C) and hydrogen (H).
+
+Saturated molecules
+The simplest of the hydrocarbon molecules is methane (CH4), which has one carbon atom and four hydrogen atoms per molecule. The next simplest, ethane (C2H6), has two carbon atoms and six hydrogen atoms. A whole class of hydrocarbons can be defined by expanding upon the relationship between methane and ethane. Known as the paraffins, this is a family of chainlike molecules with the chemical formula CnH2n + 2. These molecules are also referred to as saturated, since each of the four valence electrons on a carbon atom that are available for bonding is taken up by a single hydrogen or carbon atom. Because these “single” bonds leave no valence electron available for sharing with another atom, paraffin molecules tend to be chemically stable.
+
+structures of common hydrocarbon compounds
+structures of common hydrocarbon compoundsStructures assumed by hydrogen (H) and carbon (C) molecules in four common hydrocarbon compounds.
+Paraffins can be arranged either in straight chains (normal paraffins, such as butane; see figure) or branched chains (isoparaffins). Most of the paraffin compounds in naturally occurring crude oils are normal paraffins, while isoparaffins are frequently produced in refinery processes. The normal paraffins are uniquely poor as motor fuels, while isoparaffins have good engine-combustion characteristics. Longer-chain paraffins are major constituents of waxes.
+
+Once a hydrocarbon molecule contains more than four carbon atoms, the carbon atoms may form not a branched or straight chain but a closed-ring structure known as a cyclo-compound. Saturated cyclo-compounds are called naphthenes. Naphthenic crudes tend to be poor raw materials for lubricant manufacture, but they are more easily converted into high-quality gasolines than are the paraffin compounds.
+
+Unsaturated molecules
+Two other chemical families that are important in petroleum refining are composed of unsaturated molecules. In unsaturated molecules, not all the valence electrons on a carbon atom are bonded to separate carbon or hydrogen atoms; instead, two or three electrons may be taken up by one neighbouring carbon atom, thus forming a “double” or “triple” carbon-carbon bond. Like saturated compounds, unsaturated compounds can form either chain or ring molecules. Unsaturated chain molecules are known as olefins. Only small amounts of olefins are found in crude oils, but large volumes are produced in refining processes. Olefins are relatively reactive as chemicals and can be readily combined to form other longer-chain compounds.
+
+The other family of unsaturated compounds is made up of ring molecules called aromatics. The simplest aromatic compound, benzene (C6H6), has double bonds linking every other carbon molecule (see figure). The double bonds in the benzene ring are very unstable and chemically reactive. Partly for this reason, benzene is a popular building block in the petrochemical industry.
+
+Unsaturated hydrocarbons generally have good combustion characteristics, but their reactivity can lead to instability in storage and sometimes to environmental emission problems.
+
+Types of crude oil
+The above description of hydrocarbons refers to simpler members of each family, but crude oils are actually complex mixtures of very long-chain compounds, some of which have not yet been identified. Because such complex mixtures cannot be readily identified by chemical composition, refiners customarily characterize crude oils by the type of hydrocarbon compound that is most prevalent in them: paraffins, naphthenes, and aromatics. Some crude oils, such as those in the original Pennsylvanian oil fields, consist mainly of paraffins. Others, such as the heavy Mexican and Venezuelan crudes, are predominantly naphthenic and are rich in bitumen (a high-boiling semisolid material).
+
+crude oils
+crude oilsProduct content of five major crude oils.
+The proportions of products that may be obtained by distillation of five typical crude oils, ranging from heavy Venezuelan Boscan to the light Bass Strait oil produced in Australia, are shown in the figure. Given the pattern of modern demand (which tends to be highest for transportation fuels such as gasoline), the market price of a crude oil generally rises with increasing yields of light products. It is possible to process heavier crudes more intensely in order to improve their yield of light products, but the capital and operating costs required to support such high conversion processes are much greater than those required to process lighter crudes into the same yield of products.
+
+In addition to the hydrocarbons, compounds of sulfur, nitrogen, and oxygen are present in small amounts in crude oils. Also there are usually traces of vanadium, nickel, chlorine, sodium, and arsenic. These elements may affect the safety of oil-transport systems, the quality of refined products, and the effectiveness of processing units within a refinery. Minute traces can usually be tolerated, but crudes with larger amounts of these materials must be extensively treated in order to restrict their harmful effects.
+
+Conventional measurement systems
+Petroleum refining is a continuous manufacturing process that is highly dependent on careful measurement of operating variables to influence product qualities and to control operating expenses. The conventional practice for the industry in the United States is to measure capacity by volume and to employ the English system for other operating measurements. Most refiners in other areas of the world define capacity by the weight of materials processed and record operating measurements in metric units. Since many refiners throughout the world have U.S. shareholders, international results are often reported on both bases, which are shown in the table. In this article, all measurements will be presented in international terms with the U.S. equivalent indicated in parentheses.
+
+Measurement systems employed in petroleum refining
+refinery operation	units of measure
+international	U.S.
+quantity processed	metric tons	barrels (42 gallons per barrel)
+unit capacity	tons per year	barrels per day
+flow rate	cubic metres per day	barrels per day
+temperature	degrees Celsius	degrees Fahrenheit
+pressure	pascals or bars	pounds per square inch
+heat energy	joules or calories	British thermal units
+Basic refinery processes
+Each refinery is uniquely designed to process specific crude oils into selected products. In order to meet the business objectives of the refinery, the process designer selects from an array of basic processing units. In general, these units perform one of three functions: (1) separating the many types of hydrocarbon present in crude oils into fractions of more closely related properties, (2) chemically converting the separated hydrocarbons into more desirable reaction products, and (3) purifying the products of unwanted elements and compounds.
+
+Separation
+Fractional distillation
+The primary process for separating the hydrocarbon components of crude oil is fractional distillation. Crude oil distillers separate crude oil into fractions for subsequent processing in such units as catalytic reformers, cracking units, alkylation units, or cokers. In turn, each of these more complex processing units also incorporates a fractional distillation tower to separate its own reaction products.
+
+Modern crude oil distillation units operate continuously over long periods of time and are much larger than the fractional distillation units employed in chemical or other industries. Process rates are commonly delineated in American barrels; units capable of processing 100,000 barrels per day are commonplace, and the largest units are capable of charging more than 200,000 barrels per day.
+
+Crude-oil fractional distillation column diagram
+Crude-oil fractional distillation column diagramSchematic diagram of a crude-oil fractional distillation column.
+The principles of operation of a modern crude oil distillation unit are shown in the figure. Crude oil is withdrawn from storage tanks at ambient temperature and pumped at a constant rate through a series of heat exchangers in order to reach a temperature of about 120 °C (250 °F). A controlled amount of fresh water is introduced, and the mixture is pumped into a desalting drum, where it passes through an electric field and a saltwater phase is separated. (If the salt were not removed at this stage, it would be deposited later on the tubes of the furnace and cause plugging.) The desalted crude oil passes through additional heat exchangers and then through steel alloy tubes in a furnace. There it is heated to a temperature between 315 and 400 °C (600 and 750 °F), depending on the type of crude oil and the end products desired. A mixture of vapour and unvaporized oil passes from the furnace into the fractionating column, a vertical cylindrical tower as much as 45 metres (150 feet) high containing 20 to 40 fractionating trays spaced at regular intervals. The most common fractionating trays are of the sieve or valve type. Sieve trays are simple perforated plates with small holes about 5 to 6 mm (0.2 to 0.25 inch) in diameter. Valve trays are similar, except the perforations are covered by small metal disks that restrict the flow through the perforations under certain process conditions.
+
+The oil vapours rise up through the column and are condensed to a liquid in a water- or air-cooled condenser at the top of the tower. A small amount of gas remains uncondensed and is piped into the refinery fuel-gas system. A pressure control valve on the fuel-gas line maintains fractionating column pressure at the desired figure, usually near one standard atmosphere pressure, measured as approximately 1 bar, 100 kilopascals (KPa), or 15 pounds per square inch (psi). Part of the condensed liquid, called reflux, is pumped back into the top of the column and descends from tray to tray, contacting rising vapours as they pass through the slots in the trays. The liquid progressively absorbs heavier constituents from the vapour and, in turn, gives up lighter constituents to the vapour phase. Condensation and reevaporation takes place on each tray. Eventually an equilibrium is reached in which there is a continual gradation of temperature and oil properties throughout the column, with the lightest constituents on the top tray and the heaviest on the bottom. The use of reflux and vapour-liquid contacting trays distinguishes fractional distillation from simple distillation columns.
+
+Intermediate products, or “sidestreams,” are withdrawn at several points from the column, as shown in the figure. In addition, modern crude distillation units employ intermediate reflux streams. Sidestreams are known as intermediate products because they have properties between those of the top or overhead product and those of products issuing from the base of the column. Typical boiling ranges for various streams are as follows: light straight-run naphtha (overhead), 20–95 °C (70–200 °F); heavy naphtha (top sidestream), 90–165 °C (195– 330 °F); crude kerosene (second sidestream), 150–245 °C (300–475 °F); light gas oil (third sidestream), 215–315 °C (420–600 °F).
+
+Unvaporized oil entering the column flows downward over a similar set of trays in the lower part of the column, called stripping trays, which act to remove any light constituents remaining in the liquid. Steam is injected into the bottom of the column in order to reduce the partial pressure of the hydrocarbons and assist in the separation. Typically a single sidestream is withdrawn from the stripping section: heavy gas oil, with a boiling range of 285–370 °C (545–700 °F). The residue that passes from the bottom of the column is suitable for blending into industrial fuels. Alternately, it may be further distilled under vacuum conditions to yield quantities of distilled oils for manufacture into lubricating oils or for use as a feedstock in a gas oil cracking process.
